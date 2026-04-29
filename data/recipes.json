@@ -1,0 +1,2919 @@
+[
+  {
+    "id": "telur-dadar-bayam",
+    "name": "Telur Dadar Bayam",
+    "image": "../assets/telur_bayam.png",
+    "ingredients": [
+      { "nama": "Telur", "tampilan": "3 butir telur ayam" },
+      { "nama": "Bayam", "tampilan": "30 g daun bayam, iris tipis" },
+      { "nama": "Bawang Merah", "tampilan": "2 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih, iris tipis" },
+      { "nama": "Cabai Merah", "tampilan": "½ buah cabai merah, buang bijinya, iris tipis" },
+      { "nama": "Daun Bawang", "tampilan": "½ batang daun bawang, iris tipis" }
+    ],
+    "spices": [
+      "¾ sdt Royco Kaldu Ayam",
+      "2 sdm minyak, untuk menumis"
+    ],
+    "steps": [
+      "Di dalam mangkuk, kocok telur ayam. Tambahkan sisa bahan kecuali minyak, aduk rata.",
+      "Panaskan minyak di dalam wajan anti lengket di atas api kecil.",
+      "Tuangkan campuran telur, masak hingga dasarnya berwarna keemasan, balik lalu masak hingga matang.",
+      "Angkat. Sajikan segera ditemani nasi putih."
+    ],
+    "nutrition": {
+      "energi": "123.8 kkal",
+      "protein": "5.4 g",
+      "lemak": "10.8 g",
+      "karbohidrat": "1.2 g",
+      "serat": "0.2 g",
+      "vitA": "17%",
+      "vitC": "4%",
+      "vitD": "5%",
+      "kalsium": "3%",
+      "zatBesi": "4%",
+      "iodium": "13%"
+    }
+  },
+  {
+    "id": "sup-kelor-jagung",
+    "name": "Sup Kelor Jagung",
+    "image": "../assets/sup_kelor.png",
+    "ingredients": [
+      { "nama": "Daun Kelor", "tampilan": "100 g daun kelor, petik daunnya" },
+      { "nama": "Jagung", "tampilan": "1 buah jagung manis, pipil" },
+      { "nama": "Labu Siam", "tampilan": "1 buah labu siam, kupas, potong dadu" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, iris" },
+      { "nama": "Bawang Merah", "tampilan": "2 butir bawang merah, iris" }
+    ],
+    "spices": [
+      "1 lembar daun salam",
+      "1 L air",
+      "1 sdt Royco Kaldu Ayam",
+      "1 sdm gula pasir"
+    ],
+    "steps": [
+      "Didihkan air, masukkan bawang putih, bawang merah, dan daun salam. Masak sebentar.",
+      "Masukkan labu siam, masak setengah matang. Masukkan jagung, aduk rata.",
+      "Tambahkan daun kelor, Royco, dan gula. Aduk rata, sajikan segera."
+    ],
+    "nutrition": {
+      "energi": "149.9 kkal",
+      "protein": "4.3 g",
+      "lemak": "1.5 g",
+      "karbohidrat": "31.7 g",
+      "serat": "4 g",
+      "vitA": "28%",
+      "vitC": "12%",
+      "vitD": "0%",
+      "kalsium": "5%",
+      "zatBesi": "7%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "kroket-cakalang",
+    "name": "Kroket Cakalang",
+    "image": "../assets/kroket.png",
+    "ingredients": [
+      { "nama": "Ikan Cakalang", "tampilan": "250 g ikan cakalang kukus, suwir" },
+      { "nama": "Kentang", "tampilan": "500 g kentang goreng, hancurkan" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Cabai Merah", "tampilan": "10 pcs cabe merah besar (tumis & giling)" },
+      { "nama": "Cabai Kecil", "tampilan": "5 pcs cabe rawit merah (tumis & giling)" },
+      { "nama": "Bawang Merah", "tampilan": "10 pcs bawang merah (tumis & giling)" },
+      { "nama": "Bawang Putih", "tampilan": "5 pcs bawang putih (tumis & giling)" },
+      { "nama": "Tomat", "tampilan": "4 pcs tomat merah (tumis & giling)" }
+    ],
+    "spices": [
+      "8 pcs cabe keriting (tumis & giling)",
+      "2 pcs sereh",
+      "1 ruas ibu jari Jahe",
+      "1 sdt Royco Kaldu Ayam",
+      "100 g tepung maizena",
+      "Daun kemangi secukupnya",
+      "Minyak untuk menggoreng"
+    ],
+    "steps": [
+      "Tumis kembali semua bahan yang telah ditumis dan digiling bersama sereh dan jahe.",
+      "Masukkan ikan cakalang, daun kemangi, dan Royco Ayam. Aduk rata lalu dinginkan.",
+      "Campurkan kentang yang telah dihancurkan dengan telur ayam dan sedikit Royco, aduk hingga kalis.",
+      "Ambil adonan kentang, isi dengan tumisan cakalang, lalu bentuk bulat atau lonjong.",
+      "Balur ringan dengan tepung maizena jika diperlukan, lalu goreng hingga kuning keemasan.",
+      "Angkat, tiriskan, dan siap disajikan."
+    ],
+    "nutrition": {
+      "energi": "333.1 kkal",
+      "protein": "20.7 g",
+      "lemak": "2.4 g",
+      "karbohidrat": "57.2 g",
+      "serat": "7 g",
+      "vitA": "100%",
+      "vitC": "100%",
+      "vitD": "2%",
+      "kalsium": "7%",
+      "zatBesi": "34%",
+      "iodium": "32.7%"
+    }
+  },
+  {
+    "id": "telur-balado",
+    "name": "Telur Balado",
+    "image": "../assets/telor.png",
+    "ingredients": [
+      { "nama": "Telur", "tampilan": "4 butir telur ayam, rebus, kupas, goreng hingga berkulit" },
+      { "nama": "Cabai Merah", "tampilan": "75 g cabai merah keriting" },
+      { "nama": "Bawang Merah", "tampilan": "50 g bawang merah, kupas" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, potong dadu" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "3 sdm air" },
+      { "nama": "Daun Jeruk", "tampilan": "1 lembar daun jeruk" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Gula pasir secukupnya",
+      "Garam secukupnya (opsional)"
+    ],
+    "steps": [
+      "Tumbuk kasar cabai keriting dan bawang merah. Sisihkan.",
+      "Panaskan minyak di dalam wajan. Tumis sambal dan daun jeruk hingga harum dan matang.",
+      "Masukkan tomat, gula, Royco, dan air. Masak hingga keluar minyaknya.",
+      "Tambahkan telur, aduk rata. Angkat."
+    ],
+    "nutrition": {
+      "takaranSaji": "127.1 g",
+      "energi": "177.9 kkal",
+      "protein": "7.8 g",
+      "lemak": "14.6 g",
+      "karbohidrat": "4.1 g",
+      "serat": "0.7 g",
+      "vitA": "61%",
+      "vitC": "35%",
+      "vitD": "7%",
+      "kalsium": "4%",
+      "zatBesi": "7%",
+      "iodium": "17%"
+    }
+  },
+ {
+    "id": "sop-oyong-misoa",
+    "name": "Sop Oyong Misoa",
+    "image": "../assets/sup_oyong.png",
+    "ingredients": [
+      { "nama": "Oyong", "tampilan": "500 g oyong, kupas, iris tebal" },
+      { "nama": "Tahu", "tampilan": "1 kotak tahu putih, potong dadu" },
+      { "nama": "Misoa", "tampilan": "50 g misoa" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, memarkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak" },
+      { "nama": "Ebi", "tampilan": "1 sdt ebi" },
+      { "nama": "Air", "tampilan": "750 ml air" },
+      { "nama": "Penyedap", "tampilan": "1 bungkus Royco Kaldu Ayam" }
+    ],
+    "spices": [
+      "Jahe secukupnya (memarkan)",
+      "Garam dan Lada secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam panci. Tumis bawang putih dan jahe hingga harum.",
+      "Masukkan ebi, masak sebentar hingga aromanya keluar.",
+      "Tuangkan air, didihkan. Masukkan oyong, masak sebentar.",
+      "Tambahkan tahu, aduk perlahan. Masukkan misoa dan Royco, aduk rata.",
+      "Masak hingga semua bahan matang, angkat, dan sajikan segera."
+    ],
+    "nutrition": {
+      "energi": "136.6 kkal",
+      "protein": "1.8 g",
+      "lemak": "7.8 g",
+      "karbohidrat": "15.2 g",
+      "serat": "0.9 g",
+      "vitA": "41%",
+      "vitC": "1%",
+      "vitD": "0%",
+      "kalsium": "3%",
+      "zatBesi": "3%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "cireng-sayuran",
+    "name": "Cireng Sayuran",
+    "image": "../assets/cireng.png",
+    "ingredients": [
+      { "nama": "Adonan biang", "tampilan": "Adonan biang (slurry):" },
+      { "nama": "Air", "tampilan": " 250 ml air" },
+      { "nama": "Tepung Tapioka", "tampilan": " 5 sdm tepung tapioka" },
+      { "nama": "Bawang Putih", "tampilan": " 2-3 siung bawang putih, halus" },
+      { "nama": "Wortel", "tampilan": " 1 batang wortel, cincang kasar" },
+      { "nama": "Jagung", "tampilan": " 2 sdm jagung manis parut" },
+      { "nama": "Daun Bawang", "tampilan": " 1-2 batang daun bawang iris" },
+      { "nama": "Penyedap", "tampilan": " 2 sdt Royco Ayam" },
+      { "nama": "Sambal cuka", "tampilan": "Sambal cuka:" },
+      { "nama": "Air", "tampilan": " 250 ml air" },
+      { "nama": "Cabai Kecil", "tampilan": " 8 buah cabai rawit, rebus" },
+      { "nama": "Cabai Merah", "tampilan": " 3 buah cabai merah, rebus" },
+      { "nama": "Bawang Putih", "tampilan": " 2-3 siung bawang putih" },
+      { "nama": "Cuka", "tampilan": " 2 sdm cuka meja" },
+      { "nama": "Kecap", "tampilan": " 2 sdm kecap bango" },
+      { "nama": "Gula", "tampilan": " 2 sdm gula" },
+      { "nama": "Penyedap", "tampilan": " 1/2 sdt Royco Ayam" },
+      { "nama": "Tepung campuran", "tampilan": "Tepung campuran adonan:" },
+      { "nama": "Tepung Tapioka", "tampilan": " 150 gr tepung tapioka" },
+      { "nama": "Tepung pelapis", "tampilan": "Tepung pelapis kering:" },
+      { "nama": "Tepung Tapioka", "tampilan": " 100 gr tepung tapioka" }
+    ],
+    "spices": [
+      "Minyak goreng secukupnya",
+      "Garam jika diperlukan"
+    ],
+    "steps": [
+      "Panaskan wajan, lalu masukkan air, tepung tapioka, bawang putih, daun bawang, penyedap, aduk, masak hingga mengental dan lengket.",
+      "Campurkan ke dalam tepung kering, uleni hingga menyatu, lalu bagi adonan menjadi 12.",
+      "Masukkan ke dalam tepung pelapis, aduk rata kemudian diamkan selama 10 menit.",
+      "Panaskan minyak, goreng cireng di api besar hingga setengah matang, tiriskan. Goreng kembali hingga sedikit berubah warna, tiriskan.",
+      "Untuk saus cuka: rebus cabai dan bawang putih, lalu tambahkan cuka, air, gula, kecap bango, Royco Ayam, dan penyedap. Blender hingga halus.",
+      "Cireng siap disajikan dengan sambal cuka."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "253.2 g",
+      "energi": "327.1 kkal",
+      "lemak": "20.3 g",
+      "protein": "1.3 g",
+      "karbohidrat": "79.6 g",
+      "serat": "2.4 g",
+      "vitA": "35%",
+      "vitC": "55%",
+      "vitD": "0%",
+      "kalsium": "3%",
+      "zatBesi": "11%",
+      "seng": "1%",
+      "iodium": "49%"
+    }
+  },
+  {
+    "id": "semur-bola-ayam",
+    "name": "Semur Bola Bola Ayam",
+    "image": "../assets/semur_bola.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "200 g daging ayam giling, bentuk bola-bola kecil, tumis hingga kecokelatan" },
+      { "nama": "Kentang", "tampilan": " 2 buah kentang, belah 6 bagian" },
+      { "nama": "Air", "tampilan": " 650 ml air" },
+      { "nama": "Kecap", "tampilan": " 60 ml Kecap Manis Bango" },
+      { "nama": "Penyedap", "tampilan": " 1 sdt Royco Kaldu Ayam" },
+      { "nama": "Pala", "tampilan": " 1 sdt pala bubuk" },
+      { "nama": "Saus Tiram", "tampilan": " 1 sdt Saus Tiram Royco" },
+      { "nama": "Minyak", "tampilan": " 1 sdm minyak, untuk menumis" },
+      { "nama": "Bumbu halus", "tampilan": "Bumbu, haluskan:" },
+      { "nama": "Bawang Merah", "tampilan": " 3 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": " 2 siung bawang putih" }
+    ],
+    "spices": [
+      "Merica secukupnya",
+      "Garam secukupnya"    ],
+    "steps": [
+      "Di dalam panci, tumis bumbu halus hingga harum. Tuangkan air dan kecap, didihkan.",
+      "Masukkan kentang, masak hingga setengah matang. Masukkan bola-bola ayam yang sudah ditumis sebelumnya, aduk rata.",
+      "Masukkan Royco, pala, dan merica, aduk rata. Masak hingga semua bahan matang dan bumbu meresap ke dalam kentang dan ayam. Angkat.",
+      "Sajikan segera ditemani nasi putih hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "322.2 g",
+      "energi": "233.3 kkal",
+      "protein": "12.3 g",
+      "lemak": "8.7 g",
+      "karbohidrat": "27.2 g",
+      "serat": "2.1 g",
+      "vitA": "24%",
+      "vitC": "21%",
+      "vitD": "0%",
+      "kalsium": "3%",
+      "zatBesi": "5%",
+      "seng": "6%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "tumis-pakcoy-jagung",
+    "name": "Tumis Pakcoy Jagung Manis",
+    "image": "../assets/tumis_pakcoy.png",
+    "ingredients": [
+      { "nama": "Pakcoy", "tampilan": "200 g pakcoy, potong 3 cm" },
+      { "nama": "Jagung", "tampilan": "100 g jagung manis pipilan" },
+      { "nama": "Bawang Putih", "tampilan": "3 siung bawang putih, cincang" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, iris" },
+      { "nama": "Cabai Merah", "tampilan": "2 buah cabai merah, iris serong" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, belah 8 bagian" },
+      { "nama": "Penyedap", "tampilan": "1/2 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "150 ml air" },
+      { "nama": "Saus Tiram", "tampilan": "2 sdt Royco Saus Tiram" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Garam dan Gula secukupnya",
+      "Lada putih (opsional)"    
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih, bawang bombay, dan cabai hingga harum.",
+      "Masukkan pakcoy, jagung, tomat, Royco Kaldu Ayam, Royco Saus Tiram, dan air. Aduk rata.",
+      "Masak hingga sayuran matang. Angkat.",
+      "Sajikan segera ditemani nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "174.8 g",
+      "energi": "120.6 kkal",
+      "protein": "2.2 g",
+      "lemak": "7.8 g",
+      "karbohidrat": "11.9 g",
+      "serat": "2.3 g",
+      "vitA": "52%",
+      "vitC": "37%",
+      "vitD": "0%",
+      "kalsium": "3%",
+      "zatBesi": "3%",
+      "seng": "3%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "korean-one-pan-toast",
+    "name": "Korean One Pan Toast",
+    "image": "../assets/korean_one.png",
+    "ingredients": [
+      { "nama": "Roti", "tampilan": " 2 lembar roti tawar polos/gandum, belah 2 memanjang" },
+      { "nama": "Telur", "tampilan": " 3 butir telur ayam" },
+      { "nama": "Ayam", "tampilan": " 1 sdm daging ayam giling" },
+      { "nama": "Tomat", "tampilan": " ½ buah tomat, cincang dadu" },
+      { "nama": "Penyedap", "tampilan": " ½ sdt Royco Kaldu Ayam" },
+      { "nama": "Mayones", "tampilan": " 1 sdm mayones" },
+      { "nama": "Tomat", "tampilan": " ½ buah tomat, iris" },
+      { "nama": "Keju", "tampilan": " 1 lembar keju cheddar, belah 2 bagian" },
+      { "nama": "Minyak", "tampilan": " 1 sdm minyak" }
+    ],
+    "spices": [
+      "Mentega (opsional)",
+      "Saus sambal atau saus tomat",
+      "Parsley kering untuk taburan"
+    ],
+    "steps": [
+      "Di dalam mangkuk, kocok rata telur, daging ayam giling, tomat cincang, dan Royco.",
+      "Panaskan minyak di dalam wajan anti lengket. Tuangkan 1/2 bagian campuran telur, lalu tata 2 potong roti di atasnya.",
+      "Ketika telur sudah mulai matang, balikkan posisinya. Lipat pinggiran telur ke arah dalam roti.",
+      "Olesi roti dengan 1/2 sdm mayones, beri 2 irisan tomat dan 1/2 lembar keju. Tangkupkan kedua roti tersebut. Angkat.",
+      "Ulangi proses yang sama hingga seluruh bahan terpakai. Potong-potong sesuai selera dan sajikan segera."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "66.3 g",
+      "energi": "118.5 kkal",
+      "protein": "5.2 g",
+      "lemak": "7.5 g",
+      "karbohidrat": "7.9 g",
+      "serat": "0.7 g",
+      "vitA": "30%",
+      "vitC": "4%",
+      "vitD": "5%",
+      "kalsium": "3%",
+      "zatBesi": "3%",
+      "seng": "4%",
+      "iodium": "6%"
+    }
+  },
+  {
+    "id": "ikan-masak-kuning",
+    "name": "Ikan Masak Kuning",
+    "image": "../assets/ikan-kuning.png",
+    "ingredients": [
+      { "nama": "Ikan", "tampilan": "2 Ekor Ikan Bandeng (atau sesuai selera)" },
+      { "nama": "Jeruk Nipis", "tampilan": "1 buah jeruk nipis" },
+      { "nama": "Bumbu Iris", "tampilan": "Bumbu-Bumbu:" },
+      { "nama": "Bawang Merah", "tampilan": "4 Siung Bawang Merah, iris" },
+      { "nama": "Bawang Putih", "tampilan": "2 Siung Bawang Putih, iris" },
+      { "nama": "Cabai Kecil", "tampilan": "5 Biji Cabe rawit (sesuai selera)" },
+      { "nama": "Jahe", "tampilan": "1 ruas jari Jahe" },
+      { "nama": "Daun Bawang", "tampilan": "1 Batang Daun Bawang" },
+      { "nama": "Daun Jeruk", "tampilan": "2 Lembar Daun Jeruk" },
+      { "nama": "Serai", "tampilan": "2 Batang Serai" },
+      { "nama": "Kunyit", "tampilan": "1/4 sdt Kunyit Bubuk" },
+      { "nama": "Ketumbar", "tampilan": "1/2 sdt Ketumbar Bubuk" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Ayam" },
+      { "nama": "Air", "tampilan": "500 ml air mineral" }
+    ],
+    "spices": [
+      "Air Asam Secukupnya",
+      "Garam dan Gula secukupnya",
+      "Kemangi (opsional untuk aroma)"
+    ],
+    "steps": [
+      "Cuci dan bersihkan ikan bandeng, lalu lumuri dengan air jeruk nipis untuk menghilangkan bau amis.",
+      "Panaskan sedikit minyak, tumis bawang merah dan bawang putih hingga harum.",
+      "Tuangkan air, tunggu hingga mendidih. Masukkan ikan bandeng ke dalam air mendidih.",
+      "Masukkan semua bahan bumbu lainnya (jahe, serai, kunyit, ketumbar, penyedap, dll).",
+      "Masak hingga ikan matang sempurna dan bumbu meresap. Angkat dan sajikan segera."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "273 g",
+      "energi": "247.3 kkal",
+      "protein": "26.1 g",
+      "lemak": "13.7 g",
+      "karbohidrat": "3.6 g",
+      "serat": "0.8 g",
+      "vitA": "9%",
+      "vitC": "18%",
+      "vitD": "0%",
+      "kalsium": "8%",
+      "zatBesi": "10%",
+      "seng": "10%",
+      "iodium": "32.7%"
+    }
+  },
+  {
+    "id": "tumis-buncis-kecap",
+    "name": "Tumis Buncis Kecap",
+    "image": "../assets/tumis-buncis.png",
+    "ingredients": [
+      { "nama": "Buncis", "tampilan": "350g buncis, potong 3 cm" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, iris tebal" },
+      { "nama": "Bawang Merah", "tampilan": "3 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "3 siung bawang putih, iris tipis" },
+      { "nama": "Cabai Merah", "tampilan": "½ buah cabai merah, buang bijinya, iris tipis" },
+      { "nama": "Saus Tiram", "tampilan": "1 sdm Royco saus tiram" },
+      { "nama": "Daun Salam", "tampilan": "1 lembar daun salam" },
+      { "nama": "Kecap", "tampilan": "1 sdm Kecap Manis Bango Light" },
+      { "nama": "Penyedap", "tampilan": "¾ sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "100 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Lengkuas secukupnya (memarkan)",
+      "Merica secukupnya",
+      "Garam dan Gula secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan di atas api sedang. Tumis bawang merah dan bawang putih hingga harum.",
+      "Tambahkan cabai, lengkuas, dan daun salam. Tumis selama 2-3 menit hingga bumbu matang.",
+      "Masukkan buncis, tomat, kecap manis, Royco Saus Tiram, Royco Kaldu Ayam, merica, dan air.",
+      "Aduk rata, lanjutkan memasak hingga buncis matang dan airnya sedikit menyusut agar bumbu meresap. Angkat.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "128.8 g",
+      "energi": "81.5 kkal",
+      "protein": "2.5 g",
+      "lemak": "3.8 g",
+      "karbohidrat": "10.2 g",
+      "serat": "1.9 g",
+      "vitA": "38%",
+      "vitC": "52%",
+      "vitD": "0%",
+      "kalsium": "6%",
+      "zatBesi": "8%",
+      "seng": "6%",
+      "iodium": "13%"
+    }
+  },
+  {
+    "id": "bola-makaroni-goreng",
+    "name": "Bola Makaroni Goreng",
+    "image": "../assets/bola-makaroni.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "50 g daging ayam giling" },
+      { "nama": "Bawang Bombay", "tampilan": "½ bawang bombay, cincang halus" },
+      { "nama": "Tepung Terigu", "tampilan": "2 sdm tepung terigu serbaguna" },
+      { "nama": "Susu", "tampilan": "175 ml susu cair" },
+      { "nama": "Makaroni", "tampilan": "200 g makaroni yang telah direbus" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Merica", "tampilan": "¼ sdt merica putih bubuk" },
+      { "nama": "Keju", "tampilan": "2 sdm keju cheddar parut" },
+      { "nama": "Margarin", "tampilan": "2 sdm margarin, untuk menumis" },
+      { "nama": "Minyak", "tampilan": "Minyak, untuk menggoreng" },
+      { "nama": "Pelapis", "tampilan": "Tepung Pelapis:" },
+      { "nama": "Tepung Roti", "tampilan": "100 g tepung roti" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam, kocok lepas" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Saus sambal (pelengkap)",
+      "Mayones (pelengkap)"
+    ],
+    "steps": [
+      "Tumis bawang bombay dengan margarin hingga harum. Masukkan daging ayam giling, aduk hingga berubah warna.",
+      "Tambahkan tepung terigu, aduk rata. Tuangkan susu cair sedikit demi sedikit sambil terus diaduk hingga adonan menjadi licin dan kalis.",
+      "Masukkan makaroni, Royco, merica, pala, dan keju. Aduk rata. Masak hingga susu menyerap dan adonan mengering. Angkat dan diamkan hingga hangat.",
+      "Ambil 2 sdt adonan, bentuk menjadi bulatan kecil. Gulingkan ke tepung roti, celupkan ke telur, lalu lapisi kembali dengan tepung roti agar renyah.",
+      "Panaskan minyak, goreng bola makaroni hingga berwarna kuning keemasan. Tiriskan.",
+      "Sajikan segera selagi hangat dengan cocolan saus sambal dan mayones."
+    ],
+    "nutrition": {
+      "takaranSaji": "8 sajian",
+      "jumlahPerSajian": "96.8 g",
+      "energi": "183.4 kkal",
+      "protein": "7.2 g",
+      "lemak": "8.3 g",
+      "karbohidrat": "20.6 g",
+      "serat": "1.3 g",
+      "vitA": "20%",
+      "vitC": "1%",
+      "vitD": "5%",
+      "kalsium": "6%",
+      "zatBesi": "3%",
+      "seng": "6%",
+      "iodium": "13%"
+    }
+  },
+  {
+    "id": "omelet-sayuran",
+    "name": "Omelet Sayuran",
+    "image": "../assets/omelet-sayuran.png",
+    "ingredients": [
+      { "nama": "Telur", "tampilan": "4 butir telur ayam" },
+      { "nama": "Bayam", "tampilan": "1 ikat bayam, siangi" },
+      { "nama": "Kol", "tampilan": "2 lembar kol, iris tipis" },
+      { "nama": "Wortel", "tampilan": "50 g wortel, potong korek api" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Cabai Kecil", "tampilan": "1 buah cabai rawit merah, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak" }
+    ],
+    "spices": [
+      "Saus sambal botolan",
+      "Garam dan Merica secukupnya"
+    ],
+    "steps": [
+      "Di dalam mangkuk, masukkan telur, bayam, kol, wortel, daun bawang, cabai, dan Royco. Aduk hingga semua bahan tercampur rata.",
+      "Panaskan minyak di dalam wajan anti lengket menggunakan api sedang.",
+      "Tuangkan adonan telur (bisa dibagi menjadi 2 bagian masak). Masak hingga matang dan berwarna kecokelatan di kedua sisinya. Angkat.",
+      "Potong omelet sesuai selera dan sajikan segera bersama nasi putih dan saus sambal."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "69.9 g",
+      "energi": "96.9 kkal",
+      "protein": "4.6 g",
+      "lemak": "7.9 g",
+      "karbohidrat": "2.5 g",
+      "serat": "0.8 g",
+      "vitA": "64%",
+      "vitC": "9%",
+      "vitD": "7%",
+      "kalsium": "3%",
+      "zatBesi": "5%",
+      "seng": "5%",
+      "iodium": "11%"
+    }
+  },
+  {
+    "id": "oseng-tempe-kacang-panjang",
+    "name": "Oseng Tempe & Kacang Panjang",
+    "image": "../assets/oseng-tempe.png",
+    "ingredients": [
+      { "nama": "Tempe", "tampilan": "150g tempe, potong korek api, goreng setengah matang" },
+      { "nama": "Kacang Panjang", "tampilan": "200 g kacang panjang, potong 3 cm" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, iris tebal" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Bawang Merah", "tampilan": "3 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, iris tipis" },
+      { "nama": "Cabai Merah", "tampilan": "2 buah cabai merah, buang bijinya, iris tipis" },
+      { "nama": "Daun Salam", "tampilan": "1 lembar daun salam" },
+      { "nama": "Lengkuas", "tampilan": "1 cm lengkuas, iris tipis" },
+      { "nama": "Kecap", "tampilan": "3 sdm Kecap Manis Bango" },
+      { "nama": "Air", "tampilan": "200 ml air" },
+      { "nama": "Minyak", "tampilan": "3 sdm minyak, untuk menumis" },
+      { "nama": "Saus Tiram", "tampilan": "2 sdm Saus tiram" }
+    ],
+    "spices": [
+      "Garam dan Gula secukupnya",
+      "Merica bubuk (opsional)"    
+    ],
+    "steps": [
+      "Di dalam wajan, panaskan minyak di atas api sedang. Tumis bawang merah dan bawang putih hingga harum.",
+      "Tambahkan cabai merah, daun salam, dan lengkuas ke dalam tumisan, aduk hingga merata.",
+      "Masukkan tempe yang sudah digoreng setengah matang, kacang panjang, dan tomat. Masak selama beberapa menit.",
+      "Tambahkan Royco, Kecap Manis Bango, dan air. Aduk rata dan masak hingga bumbu meresap serta air menyusut. Angkat.",
+      "Sajikan segera selagi hangat ditemani dengan nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "235.3 g",
+      "energi": "161.1 kkal",
+      "protein": "10.3 g",
+      "lemak": "4.5 g",
+      "karbohidrat": "22 g",
+      "serat": "1.2 g",
+      "vitA": "24%",
+      "vitC": "48%",
+      "vitD": "0%",
+      "kalsium": "7%",
+      "zatBesi": "7%",
+      "seng": "6%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "roti-bakar-keju-mayo",
+    "name": "Roti Bakar Keju Mayo",
+    "image": "../assets/roti-bakar.png",
+    "ingredients": [
+      { "nama": "Roti", "tampilan": "2 lembar roti tawar" },
+      { "nama": "Jagung", "tampilan": "100 g jagung manis pipil" },
+      { "nama": "Margarin", "tampilan": "1 sdm butter/margarin" },
+      { "nama": "Mayones", "tampilan": "2 sdm mayones" },
+      { "nama": "Penyedap", "tampilan": "1/8 sdt Royco Kaldu Ayam" },
+      { "nama": "Keju", "tampilan": "50 g keju cheddar" }
+    ],
+    "spices": [
+      "Saus sambal (opsional)",
+      "Parsley atau seledri cincang untuk taburan",
+      "Susu kental manis (opsional)"
+    ],
+    "steps": [
+      "Di dalam wadah, aduk rata mayones dan Royco Kaldu Ayam. Masukkan ke dalam plastik kecil/piping bag.",
+      "Ambil 1 lembar roti, olesi permukaannya dengan margarin secara merata.",
+      "Tata jagung manis di atas roti, lalu semprotkan campuran mayones di atasnya. Taburi dengan keju cheddar parut.",
+      "Panaskan wajan anti lengket, taruh roti di atasnya lalu tutup wajan agar panas merata. Panaskan hingga keju meleleh dan bagian bawah roti garing.",
+      "Ulangi proses hingga seluruh bahan terpakai. Potong-potong sesuai selera sebelum disajikan."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "50 g",
+      "energi": "158.2 kkal",
+      "protein": "3.8 g",
+      "lemak": "11.9 g",
+      "karbohidrat": "10 g",
+      "serat": "0.7 g",
+      "vitA": "8%",
+      "vitC": "1%",
+      "vitD": "1%",
+      "kalsium": "6%",
+      "zatBesi": "1%",
+      "seng": "4%",
+      "iodium": "1%"
+    }
+  },
+  {
+    "id": "nugget-tempe",
+    "name": "Nugget Tempe",
+    "image": "../assets/nugget-tempe.png",
+    "ingredients": [
+      { "nama": "Tempe", "tampilan": "200 g tempe, kukus" },
+      { "nama": "Wortel", "tampilan": "1 buah wortel, kupas, potong dadu kecil" },
+      { "nama": "Tepung Terigu", "tampilan": "3 sdm tepung terigu" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, parut" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "Minyak, untuk menggoreng" },
+      { "nama": "Putih Telur", "tampilan": "1 putih telur ayam (untuk pelapis)" },
+      { "nama": "Tepung Panir", "tampilan": "100 g tepung panir" }
+    ],
+    "spices": [
+      "Saus sambal (pelengkap)",
+      "Garam dan Merica secukupnya",
+      "Minyak goreng tambahan (untuk olesan loyang)"
+    ],
+    "steps": [
+      "Di dalam mangkuk, hancurkan tempe yang sudah dikukus hingga halus. Tambahkan wortel, terigu, telur, daun bawang, bawang putih, dan Royco. Aduk hingga rata.",
+      "Tuangkan adonan tempe ke dalam loyang yang sudah diolesi sedikit minyak. Kukus adonan hingga matang dan padat. Angkat dan biarkan hingga benar-benar dingin.",
+      "Potong nugget tempe sesuai selera (kotak atau memanjang).",
+      "Celupkan potongan nugget ke dalam putih telur, lalu gulingkan ke tepung panir hingga terlapisi rata.",
+      "Goreng nugget dalam minyak panas hingga berwarna kuning keemasan. Angkat dan tiriskan.",
+      "Sajikan segera selagi hangat dengan cocolan saus sambal."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "129.6 g",
+      "energi": "364.2 kkal",
+      "protein": "16.4 g",
+      "lemak": "20.8 g",
+      "karbohidrat": "30.2 g",
+      "serat": "1.9 g",
+      "vitA": "23%",
+      "vitC": "2%",
+      "vitD": "2%",
+      "kalsium": "10%",
+      "zatBesi": "13%",
+      "seng": "11%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "sup-ayam-makaroni",
+    "name": "Sup Ayam Makaroni",
+    "image": "../assets/sup-ayam-makaroni.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "300g ayam tanpa kulit, potong-potong" },
+      { "nama": "Kentang", "tampilan": "150g kentang, kupas, potong dadu" },
+      { "nama": "Wortel", "tampilan": "150g wortel, kupas, potong dadu" },
+      { "nama": "Makaroni", "tampilan": "50g makaroni yang sudah direbus" },
+      { "nama": "Kol", "tampilan": "50g kol, potong-potong" },
+      { "nama": "Buncis", "tampilan": "30g buncis, potong 3cm" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, simpulkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Air", "tampilan": "1L air" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Garam dan Merica secukupnya",
+      "Bawang goreng (untuk taburan)"
+    ],
+    "steps": [
+      "Di dalam wajan, tumis bawang merah dan bawang putih hingga harum dan berwarna keemasan. Angkat, lalu sisihkan.",
+      "Di dalam panci, didihkan air. Masukkan tumisan bawang yang tadi sudah disisihkan, lalu didihkan kembali.",
+      "Tambahkan potongan ayam, masak hingga ayam berubah warna dan setengah matang.",
+      "Masukkan kentang dan wortel, masak hingga empuk. Tambahkan makaroni, kol, buncis, daun bawang, seledri, Royco Kaldu Ayam, dan pala bubuk.",
+      "Aduk rata dan didihkan kembali hingga semua sayuran matang sempurna. Angkat dan sajikan selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "449.6 g",
+      "energi": "236.7 kkal",
+      "protein": "17.7 g",
+      "lemak": "11.7 g",
+      "karbohidrat": "16.6 g",
+      "serat": "2.9 g",
+      "vitA": "97%",
+      "vitC": "21%",
+      "vitD": "1%",
+      "kalsium": "5%",
+      "zatBesi": "6%",
+      "seng": "9%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "kolak-ubi-ungu",
+    "name": "Kolak Ubi Ungu",
+    "image": "../assets/kolak-ubi-ungu.png",
+    "ingredients": [
+      { "nama": "Ubi Ungu", "tampilan": "200 g ubi ungu, kupas, potong dadu 3 cm, kukus setengah matang" },
+      { "nama": "Gula Merah", "tampilan": "100 g gula merah, sisir" },
+      { "nama": "Gula Pasir", "tampilan": "2 sdm gula pasir" },
+      { "nama": "Daun Pandan", "tampilan": "1 lembar daun pandan" },
+      { "nama": "Penyedap", "tampilan": "1/4 sdt Royco Kaldu Ayam" },
+      { "nama": "Santan", "tampilan": "65 ml santan kental" },
+      { "nama": "Susu", "tampilan": "500 ml susu cair tanpa lemak" }
+    ],
+    "spices": [
+      "Garam secukupnya",
+      "Air secukupnya (jika perlu)",
+      "Kayu manis (opsional)"
+    ],
+    "steps": [
+      "Di dalam panci, campurkan santan dan susu cair. Masak di atas api sedang sambil diaduk agar santan tidak pecah hingga mendidih.",
+      "Masukkan ubi ungu yang sudah dikukus setengah matang, gula merah, gula pasir, dan daun pandan.",
+      "Masak sambil terus diaduk perlahan hingga ubi benar-benar matang dan empuk.",
+      "Tambahkan Royco Kaldu Ayam sebagai penyeimbang rasa gurih, aduk rata.",
+      "Angkat dan sajikan kolak ubi ungu selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "147.2 g",
+      "energi": "157.7 kkal",
+      "protein": "3.7 g",
+      "lemak": "2.8 g",
+      "karbohidrat": "30.2 g",
+      "serat": "1.2 g",
+      "vitA": "40%",
+      "vitC": "1%",
+      "vitD": "0%",
+      "kalsium": "11%",
+      "zatBesi": "2%",
+      "seng": "4%",
+      "iodium": "6%"
+    }
+  },
+  {
+    "id": "telur-dadar-tomat",
+    "name": "Telur Dadar Tomat",
+    "image": "../assets/telur-dadar-tomat.png",
+    "ingredients": [
+      { "nama": "Telur", "tampilan": "3 butir telur ayam" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, iris tipis" },
+      { "nama": "Tomat", "tampilan": "½ buah tomat, iris memanjang" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak" }
+    ],
+    "spices": [
+      "Garam dan Merica secukupnya",
+      "Daun bawang (opsional)",
+      "Saus sambal (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Di dalam mangkuk, kocok rata telur ayam dan Royco Kaldu Ayam hingga menyatu.",
+      "Masukkan irisan bawang bombay dan tomat ke dalam kocokan telur, lalu aduk rata.",
+      "Panaskan minyak di wajan anti lengket menggunakan api sedang.",
+      "Tuangkan campuran telur, masak hingga matang dan berwarna kuning keemasan di kedua sisinya.",
+      "Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "72.9 g",
+      "energi": "120.9 kkal",
+      "protein": "4.9 g",
+      "lemak": "10.6 g",
+      "karbohidrat": "2.1 g",
+      "serat": "0.5 g",
+      "vitA": "62%",
+      "vitC": "6%",
+      "vitD": "7%",
+      "kalsium": "3%",
+      "zatBesi": "4%",
+      "seng": "5%",
+      "iodium": "8%"
+    }
+  },
+  {
+    "id": "tumis-bayam-tahu-jagung",
+    "name": "Tumis Bayam Tahu Jagung",
+    "image": "../assets/tumis-bayam-tahu.png",
+    "ingredients": [
+      { "nama": "Bayam", "tampilan": "200 g bayam" },
+      { "nama": "Jagung", "tampilan": "100 g jagung pipilan" },
+      { "nama": "Tahu", "tampilan": "100 g tahu putih, potong dadu, goreng hingga berkulit" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, belah 8 bagian" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "200 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Saus Tiram", "tampilan": "1 sdm Royco Saus Tiram" }
+    ],
+    "spices": [
+      "Garam dan Gula secukupnya",
+      "Merica bubuk (opsional)"    
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih hingga harum dan berwarna keemasan.",
+      "Masukkan bayam, jagung pipilan, tahu yang sudah digoreng, tomat, Royco Kaldu Ayam, Royco Saus Tiram, dan air.",
+      "Aduk rata dan masak hingga bayam layu dan matang sempurna. Angkat.",
+      "Sajikan segera selagi hangat ditemani dengan nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "187.8 g",
+      "energi": "205.1 kkal",
+      "protein": "8.2 g",
+      "lemak": "9.9 g",
+      "karbohidrat": "23 g",
+      "serat": "3.6 g",
+      "vitA": "86%",
+      "vitC": "22%",
+      "vitD": "0%",
+      "kalsium": "10%",
+      "zatBesi": "13%",
+      "seng": "9%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "makaroni-skotel-kukus",
+    "name": "Makaroni Skotel Kukus",
+    "image": "../assets/makaroni-skotel.png",
+    "ingredients": [
+      { "nama": "Makaroni", "tampilan": "100 g makaroni, rebus, tiriskan" },
+      { "nama": "Sayuran", "tampilan": "100 g mix vegetables (atau sayuran favorit)" },
+      { "nama": "Ayam", "tampilan": "50 g daging ayam giling" },
+      { "nama": "Bawang Bombay", "tampilan": "1 butir bawang bombay, cincang" },
+      { "nama": "Keju", "tampilan": "100 g keju cheddar parut" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam, kocok" },
+      { "nama": "Susu", "tampilan": "200 ml susu" },
+      { "nama": "Penyedap", "tampilan": "1 bungkus Royco Kaldu Ayam" },
+      { "nama": "Pala", "tampilan": "½ sdt pala bubuk" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak" }
+    ],
+    "spices": [
+      "Garam dan Merica secukupnya",
+      "Saus sambal (pelengkap)",
+      "Parsley kering (opsional)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang bombay hingga harum, lalu masukkan daging ayam giling dan masak hingga berubah warna.",
+      "Tambahkan mix vegetables, aduk rata. Masukkan makaroni, setengah bagian keju parut, susu cair, Royco, dan pala bubuk. Aduk hingga mendidih.",
+      "Masak hingga adonan mengental, lalu matikan api. Masukkan kocokan telur, aduk cepat hingga merata.",
+      "Tuangkan adonan ke dalam loyang atau wadah tahan panas, taburi sisa keju di atas permukaannya.",
+      "Kukus hingga matang dan set. Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "8 sajian",
+      "jumlahPerSajian": "102.9 g",
+      "energi": "183 kkal",
+      "protein": "7.6 g",
+      "lemak": "13.9 g",
+      "karbohidrat": "7.6 g",
+      "serat": "1 g",
+      "vitA": "66%",
+      "vitC": "6%",
+      "vitD": "5%",
+      "kalsium": "12%",
+      "zatBesi": "2%",
+      "seng": "7%",
+      "iodium": "13%"
+    }
+  },
+  {
+    "id": "tahu-isi-sayuran-pedas",
+    "name": "Tahu Isi Sayuran Pedas",
+    "image": "../assets/tahu-isi-pedas.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "6 buah tahu putih, potong dua melintang, kerat sisinya" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
+      { "nama": "Isian", "tampilan": "[ Isian ]" },
+      { "nama": "Bawang Bombay", "tampilan": "¼ buah bawang bombay, cincang halus" },
+      { "nama": "Bawang Putih", "tampilan": "3 siung bawang putih, cincang halus" },
+      { "nama": "Wortel", "tampilan": "½ buah wortel, kupas potong dadu kecil" },
+      { "nama": "Taoge", "tampilan": "50 g taoge" },
+      { "nama": "Kol", "tampilan": "50 g kol, iris tipis" },
+      { "nama": "Cabai", "tampilan": "2 buah cabai merah, iris tipis" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Gula", "tampilan": "½ sdt gula" },
+      { "nama": "Minyak Wijen", "tampilan": "1 sdt minyak wijen (bila mau)" },
+      { "nama": "Minyak Tumis", "tampilan": "1 sdm minyak, untuk menumis" },
+      { "nama": "Judul Pelapis", "tampilan": "Adonan Pelapis, aduk rata Di dalam mangkuk:" },
+      { "nama": "Tepung Terigu", "tampilan": "50 g tepung terigu" },
+      { "nama": "Tepung Beras", "tampilan": "2 sdm tepung beras" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "100 ml air dingin" }
+    ],
+    "spices": [
+      "Cabai rawit tambahan (untuk lalapan)",
+      "Garam secukupnya",
+      "Ketumbar bubuk (untuk aroma)"
+    ],
+    "steps": [
+      "Isian: Panaskan minyak di dalam wajan. Tumis bawang bombay dan bawang putih hingga harum. Masukkan wortel, taoge, kol, cabai, dan daun bawang, masak hingga matang. Tambahkan sisa bahan, aduk rata. Angkat. Sisihkan hingga dingin.",
+      "Ambil 1 buah tahu, isi dengan 2 sdm isian. Ulangi hingga habis.",
+      "Celupkan tahu ke dalam adonan pelapis yang sudah diaduk rata.",
+      "Goreng dalam minyak panas hingga matang dan berwarna kuning keemasan. Angkat, tiriskan minyaknya.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "346.7 g",
+      "energi": "474.3 kkal",
+      "protein": "26.1 g",
+      "lemak": "32.3 g",
+      "karbohidrat": "22.1 g",
+      "serat": "3.3 g",
+      "vitA": "133%",
+      "vitC": "18%",
+      "vitD": "0%",
+      "kalsium": "27%",
+      "zatBesi": "21%",
+      "seng": "18%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "tumis-bayam-jamur",
+    "name": "Tumis Bayam Jamur",
+    "image": "../assets/tumis-bayam-jamur.png",
+    "ingredients": [
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, cincang" },
+      { "nama": "Cabai Merah", "tampilan": "1 buah cabai merah, iris tipis" },
+      { "nama": "Bayam", "tampilan": "100g daun bayam" },
+      { "nama": "Jamur", "tampilan": "50g jamur tiram, sobek-sobek" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, iris tebal" },
+      { "nama": "Penyedap", "tampilan": "1 ¼ sdt Royco Rasa Sapi" },
+      { "nama": "Saus Tiram", "tampilan": "2 sdm Royco saus tiram" },
+      { "nama": "Air", "tampilan": "150ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Garam dan Gula secukupnya",
+      "Merica bubuk (opsional)",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih dan bawang bombay hingga harum. Masukkan cabai, lalu aduk rata.",
+      "Tambahkan jamur tiram, tumis sebentar hingga agak layu.",
+      "Masukkan bayam, tomat, Royco Rasa Sapi, Royco Saus Tiram, dan air.",
+      "Aduk rata dan masak hingga bayam matang dan bumbu meresap. Angkat.",
+      "Sajikan segera selagi hangat bersama nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "159.3 g",
+      "energi": "94.0 kkal",
+      "protein": "2.4 g",
+      "lemak": "7.3 g",
+      "karbohidrat": "5.6 g",
+      "serat": "1.8 g",
+      "vitA": "86%",
+      "vitC": "32%",
+      "vitD": "1%",
+      "kalsium": "4%",
+      "zatBesi": "6%",
+      "seng": "3%",
+      "iodium": "21%"
+    }
+  },
+  {
+    "id": "perkedel-ayam",
+    "name": "Perkedel Ayam",
+    "image": "../assets/perkedel-ayam.png",
+    "ingredients": [
+      { "nama": "Kentang", "tampilan": "300 gr kentang, tumbuk halus" },
+      { "nama": "Ayam", "tampilan": "100 gr ayam cincang" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak untuk menumis" },
+      { "nama": "Bawang Merah", "tampilan": "3 siung bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih" },
+      { "nama": "Cabai Merah", "tampilan": "50 gr cabe merah, iris" },
+      { "nama": "Daun Bawang", "tampilan": "20 gr daun bawang, iris" },
+      { "nama": "Penyedap", "tampilan": "1/2 sdt Royco Ayam" },
+      { "nama": "Bawang Goreng", "tampilan": "20 gr Bawang merah goreng" },
+      { "nama": "Telur", "tampilan": "2 butir Telur ayam, untuk goreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Minyak goreng secukupnya (untuk menggoreng perkedel)"
+    ],
+    "steps": [
+      "Cuci dan kupas kentang lalu potong kasar. Goreng hingga matang, lalu angkat dan tumbuk hingga halus.",
+      "Panaskan 2 sdm minyak, tumis bawang merah dan bawang putih hingga harum.",
+      "Masukkan daging ayam cincang ke dalam tumisan, masak hingga setengah kering. Angkat dan sisihkan.",
+      "Di dalam wadah, campurkan kentang yang sudah halus dengan tumisan daging ayam, daun bawang, cabai merah, bawang merah goreng, dan Royco Ayam. Aduk hingga rata.",
+      "Ambil sedikit adonan, bentuk menjadi bulat pipih. Ulangi hingga adonan habis.",
+      "Celupkan perkedel ke dalam telur yang telah dikocok lepas.",
+      "Goreng dalam minyak panas hingga berwarna kuning keemasan. Angkat dan tiriskan."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "158.3 g",
+      "energi": "209.6 kkal",
+      "protein": "10.2 g",
+      "lemak": "11.9 g",
+      "karbohidrat": "16 g",
+      "serat": "2.3 g",
+      "vitA": "69%",
+      "vitC": "95%",
+      "vitD": "3%",
+      "kalsium": "4%",
+      "zatBesi": "15%",
+      "seng": "8%",
+      "iodium": "11.3%"
+    }
+  },
+  {
+    "id": "mendoan-pedas",
+    "name": "Mendoan Pedas",
+    "image": "../assets/mendoan-pedas.png",
+    "ingredients": [
+      { "nama": "Tempe", "tampilan": "1 papan (400 g) tempe, iris" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
+      { "nama": "Judul Pelapis", "tampilan": "Adonan pelapis, aduk hingga rata:" },
+      { "nama": "Tepung Terigu", "tampilan": "100 g tepung terigu" },
+      { "nama": "Tepung Tapioka", "tampilan": "1 sdm tepung tapioka/sagu" },
+      { "nama": "Penyedap", "tampilan": "1 ½ sdt Royco Kaldu Ayam" },
+      { "nama": "Ketumbar", "tampilan": "1 ½ sdt ketumbar bubuk" },
+      { "nama": "Cabai Rawit", "tampilan": "6 buah cabai rawit merah, iris tipis" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris tipis" },
+      { "nama": "Air", "tampilan": "250 ml air dingin" }
+    ],
+    "spices": [
+      "Sambal kecap (pelengkap)",
+      "Garam secukupnya",
+      "Kunyit bubuk (opsional untuk warna)"
+    ],
+    "steps": [
+      "Siapkan wadah, campurkan semua bahan adonan pelapis (terigu, tapioka, Royco, ketumbar, cabai rawit, daun bawang, dan air dingin). Aduk hingga rata dan tidak ada gumpalan.",
+      "Celupkan tiap irisan tempe ke dalam adonan pelapis hingga tertutup rata.",
+      "Panaskan minyak di dalam wajan. Goreng tempe hingga matang dan berwarna kuning keemasan (khas mendoan biasanya digoreng tidak terlalu kering).",
+      "Angkat dan tiriskan.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "146.6 g",
+      "energi": "338.4 kkal",
+      "protein": "15.5 g",
+      "lemak": "23.5 g",
+      "karbohidrat": "19.5 g",
+      "serat": "0.8 g",
+      "vitA": "0%",
+      "vitC": "7%",
+      "vitD": "0%",
+      "kalsium": "8%",
+      "zatBesi": "27%",
+      "seng": "18%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "pesmol-ikan-kembung",
+    "name": "Pesmol Ikan Kembung",
+    "image": "../assets/pesmol-ikan.png",
+    "ingredients": [
+      { "nama": "Ikan Kembung", "tampilan": "500 gr ikan kembung" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat" },
+      { "nama": "Cabai Merah", "tampilan": "12 buah cabai merah" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang" },
+      { "nama": "Penyedap", "tampilan": "1/2 sdt Royco Ayam" },
+      { "nama": "Serai", "tampilan": "1 batang serai" },
+      { "nama": "Lengkuas", "tampilan": "1 ruas lengkuas" },
+      { "nama": "Daun Salam", "tampilan": "3 lbr daun salam" },
+      { "nama": "Daun Jeruk", "tampilan": "4 lbr daun jeruk" },
+      { "nama": "Air", "tampilan": "air putih secukupnya" },
+      { "nama": "Judul Bumbu Halus", "tampilan": "Bumbu yg di haluskan:" },
+      { "nama": "Bawang Merah", "tampilan": "8 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih" },
+      { "nama": "Kemiri", "tampilan": "4 butir kemiri" },
+      { "nama": "Cabai Keriting", "tampilan": "2 buah cabai keriting" },
+      { "nama": "Kunyit", "tampilan": "1 ruas kunyit" },
+      { "nama": "Penyedap Bumbu", "tampilan": "1 sdt Royco Ayam" }
+    ],
+    "spices": [
+      "Jeruk nipis (untuk marinasi)",
+      "Gula secukupnya",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Cuci bersih ikan, kucuri dengan air jeruk nipis. Diamkan selama 15 menit lalu bilas kembali dengan air bersih untuk menghilangkan bau amis.",
+      "Goreng ikan dalam minyak panas hingga matang dan berkulit, lalu angkat dan tiriskan.",
+      "Tumis bumbu halus bersama lengkuas, serai, daun jeruk, dan daun salam sampai harum dan matang.",
+      "Tambahkan sedikit air, gula, dan 1 sdt Royco Ayam. Masak sampai bumbu mendidih.",
+      "Masukkan ikan yang sudah digoreng, irisan tomat, dan daun bawang. Aduk rata dan masak sebentar agar bumbu meresap ke dalam daging ikan.",
+      "Angkat dan sajikan selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "274.7 g",
+      "energi": "481.7 kkal",
+      "protein": "41.5 g",
+      "lemak": "38.1 g",
+      "karbohidrat": "10.9 g",
+      "serat": "3.1 g",
+      "vitA": "61%",
+      "vitC": "100%",
+      "vitD": "100%",
+      "kalsium": "4%",
+      "zatBesi": "34%",
+      "seng": "9%",
+      "iodium": "65%"
+    }
+  },
+  {
+    "id": "tumis-buncis-jamur-ebi",
+    "name": "Tumis Buncis Jamur",
+    "image": "../assets/tumis-buncis-jamur.png",
+    "ingredients": [
+      { "nama": "Buncis", "tampilan": "250 gr buncis" },
+      { "nama": "Ebi", "tampilan": "2 sdm ebi, rendam air hangat" },
+      { "nama": "Bawang Putih", "tampilan": "3 bawang putih" },
+      { "nama": "Bawang Merah", "tampilan": "2 bawang merah" },
+      { "nama": "Bawang Bombay", "tampilan": "1/2 bawang bombai kecil" },
+      { "nama": "Royco Saus Tiram", "tampilan": "1 1/2 sdm Royco saus tiram" },
+      { "nama": "Penyedap", "tampilan": "1/4 sdt Royco Ayam" },
+      { "nama": "Saus Tiram", "tampilan": "1 sdm saus tiram" },
+      { "nama": "Jamur", "tampilan": "60gr Jamur kancing" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak (untuk menumis)" }
+    ],
+    "spices": [
+      "Garam dan Gula secukupnya",
+      "Merica bubuk (opsional)",
+      "Air sedikit (jika perlu)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih, bawang merah, dan bawang bombay hingga harum dan layu.",
+      "Masukkan jamur kancing dan ebi yang sudah direndam, tumis sebentar.",
+      "Tambahkan Royco Ayam, Royco Saus Tiram, dan saus tiram. Aduk rata dan lakukan tes rasa.",
+      "Terakhir, masukkan buncis. Masak sebentar saja agar tekstur buncis tetap renyah (crunchy) dan bumbu meresap.",
+      "Angkat dan sajikan segera."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "112.4 g",
+      "energi": "105.7 kkal",
+      "protein": "2.7 g",
+      "lemak": "7.3 g",
+      "karbohidrat": "8.8 g",
+      "serat": "2.4 g",
+      "vitA": "54%",
+      "vitC": "21%",
+      "vitD": "1%",
+      "kalsium": "4%",
+      "zatBesi": "9%",
+      "seng": "4%",
+      "iodium": "8%"
+    }
+  },
+  {
+    "id": "pempek-kapal-selam",
+    "name": "Pempek",
+    "image": "../assets/pempek.png",
+    "ingredients": [
+      { "nama": "Judul Adonan", "tampilan": "Bahan adonan pempek:" },
+      { "nama": "Tepung Beras", "tampilan": "300gr tepung beras" },
+      { "nama": "Air", "tampilan": "800ml air" },
+      { "nama": "Bawang Putih", "tampilan": "6 siung bawang putih" },
+      { "nama": "Bawang Merah", "tampilan": "6 siung bawang merah" },
+      { "nama": "Penyedap", "tampilan": "2 sdm Royco Ayam" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam" },
+      { "nama": "Tepung Tapioka", "tampilan": "550 gr tepung tapioka" },
+      { "nama": "Tepung Terigu", "tampilan": "80 gr tepung terigu protein sedang" },
+      { "nama": "Judul Cuko", "tampilan": "Bahan kuah cuko:" },
+      { "nama": "Air Cuko", "tampilan": "600ml air" },
+      { "nama": "Gula Aren", "tampilan": "500gr gula aren" },
+      { "nama": "Bawang Putih Cuko", "tampilan": "10 siung bawang putih" },
+      { "nama": "Cabai Rawit", "tampilan": "15 buah cabai rawit" },
+      { "nama": "Cuka", "tampilan": "2-3 sdm cuka" },
+      { "nama": "Garam", "tampilan": "½ sdt garam" },
+      { "nama": "Ebi", "tampilan": "3sdm ebi, rendam, sangrai" },
+      { "nama": "Judul Isian", "tampilan": "Isian pempek kapal selam:" },
+      { "nama": "Telur Isian", "tampilan": "4 butir telur, kocok" },
+      { "nama": "Judul Pelengkap", "tampilan": "Pelengkap:" },
+      { "nama": "Timun", "tampilan": "Timun, potong" },
+      { "nama": "Sohun", "tampilan": "Sohun, rebus" }
+    ],
+    "spices": [
+      "Bango Kecap Manis (untuk campuran cuko)",
+      "Garam secukupnya untuk adonan",
+      "Minyak goreng secukupnya"
+    ],
+    "steps": [
+      "Adonan pempek: Campurkan tepung beras, bumbu bawang, Royco, dan air. Masak sambil diaduk hingga menjadi bubur sumsum/biang. Masukkan ke wadah, tambahkan telur dan tepung terigu, aduk rata. Masukkan tepung tapioka sedikit demi sedikit sambil diaduk.",
+      "Didihkan air dalam panci besar. Tambahkan sedikit minyak agar tidak lengket, lalu kecilkan api.",
+      "Bagi adonan menjadi beberapa bagian, bulatkan. Gulingkan ke tepung tapioka agar lebih mudah dibentuk.",
+      "Ambil satu bagian, bentuk menjadi mangkuk lonjong. Masukkan telur kocok ke dalamnya (jangan terlalu penuh), tutup rapat pinggirannya hingga terbentuk seperti kapal selam.",
+      "Masukkan pempek ke dalam air mendidih. Masak hingga pempek mengapung. Angkat dan tiriskan.",
+      "Panaskan minyak, goreng pempek hingga kulitnya garing dan berwarna cokelat keemasan. Angkat, tiriskan.",
+      "Cuko: Masak semua bahan cuko termasuk gula aren dan cabai halus hingga mendidih. Angkat lalu saring.",
+      "Sajikan pempek bersama kuah cuko, irisan timun, dan sohun."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "500 g",
+      "energi": "810.5 kkal",
+      "protein": "17.3 g",
+      "lemak": "10.7 g",
+      "karbohidrat": "162.5 g",
+      "serat": "2.6 g",
+      "vitA": "10%",
+      "vitC": "29%",
+      "vitD": "75%",
+      "kalsium": "12%",
+      "zatBesi": "33%",
+      "seng": "8%",
+      "iodium": "32.7%"
+    }
+  },
+  {
+    "id": "kailan-cah-bawang-putih",
+    "name": "Kailan Cah Bawang Putih",
+    "image": "../assets/kailan-cah.png",
+    "ingredients": [
+      { "nama": "Kailan", "tampilan": "300 g kailan, blansir (dapat diganti sawi hijau)" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang kasar" },
+      { "nama": "Saus Tiram", "tampilan": "1 sdm Saus Tiram Royco" },
+      { "nama": "Gula", "tampilan": "1 ½ sdt gula" },
+      { "nama": "Penyedap", "tampilan": "1/4 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak Wijen", "tampilan": "½ sdt minyak wijen" },
+      { "nama": "Air", "tampilan": "50 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Bawang putih goreng (untuk taburan)",
+      "Garam secukupnya",
+      "Merica bubuk (opsional)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih cincang hingga harum dan sedikit kecokelatan.",
+      "Masukkan air, Saus Tiram Royco, gula, dan Royco Kaldu Ayam. Masak hingga mendidih.",
+      "Masukkan kailan yang sudah diblansir, aduk cepat hingga tercampur rata dengan bumbu.",
+      "Tuangkan minyak wijen untuk aroma yang lebih sedap, aduk sebentar, lalu angkat.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "105.7 g",
+      "energi": "106.6 kkal",
+      "protein": "2.4 g",
+      "lemak": "7.3 g",
+      "karbohidrat": "9.4 g",
+      "serat": "2.5 g",
+      "vitA": "19%",
+      "vitC": "59%",
+      "vitD": "0%",
+      "kalsium": "8%",
+      "zatBesi": "6%",
+      "seng": "2%",
+      "iodium": "13%"
+    }
+  },
+  {
+    "id": "tahu-pletok",
+    "name": "Tahu Pletok",
+    "image": "../assets/tahu-pletok.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "10 buah tahu putih, goreng" },
+      { "nama": "Minyak", "tampilan": "Minyak goreng" },
+      { "nama": "Judul Lapisan", "tampilan": "Lapisan Aci:" },
+      { "nama": "Tepung Tapioka", "tampilan": "250 g tepung tapioka" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung Bawang putih, haluskan" },
+      { "nama": "Wortel", "tampilan": "80 gr wortel cincang" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "3 batang Daun Bawang, iris" },
+      { "nama": "Air", "tampilan": "Air panas secukupnya" }
+    ],
+    "spices": [
+      "Sambal kecap (pelengkap)",
+      "Cabai rawit hijau",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Belah 2 mendatar tahu yang sudah digoreng, lalu keruk sedikit isinya. Sisihkan.",
+      "Lapisan aci: Di dalam mangkuk, campurkan tepung tapioka, bawang putih halus, Royco Ayam, wortel, dan daun bawang hingga rata.",
+      "Tambahkan air panas sedikit demi sedikit sambil diaduk cepat hingga adonan menjadi gumpalan yang kenyal.",
+      "Ambil 1 buah tahu, taruh 1 - 2 sdm adonan lapisan aci di atas bagian tahu yang dikeruk.",
+      "Panaskan minyak dalam jumlah banyak. Goreng tahu hingga lapisan aci matang, garing, dan berwarna keemasan.",
+      "Angkat, tiriskan, dan sajikan selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "168.4 g",
+      "energi": "341.9 kkal",
+      "protein": "6.8 g",
+      "lemak": "9.3 g",
+      "karbohidrat": "58 g",
+      "serat": "2.1 g",
+      "vitA": "73%",
+      "vitC": "5%",
+      "vitD": "0%",
+      "kalsium": "12%",
+      "zatBesi": "22%",
+      "seng": "3%",
+      "iodium": "32.7%"
+    }
+  },
+  {
+    "id": "nugget-tahu-wortel",
+    "name": "Nugget Tahu Wortel",
+    "image": "../assets/nugget-tahu.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "300 g tahu, haluskan dengan garpu" },
+      { "nama": "Penyedap", "tampilan": "1 bungkus Royco Kaldu Ayam" },
+      { "nama": "Merica", "tampilan": "½ sdt merica putih bubuk" },
+      { "nama": "Pala", "tampilan": "½ sdt pala bubuk" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam" },
+      { "nama": "Ayam", "tampilan": "100 g daging ayam giling" },
+      { "nama": "Wortel", "tampilan": "1 buah wortel, kupas, parut kasar" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, cincang" },
+      { "nama": "Putih Telur", "tampilan": "1 butir putih telur (untuk pelapis)" },
+      { "nama": "Tepung Terigu", "tampilan": "100 g tepung terigu" },
+      { "nama": "Tepung Panir", "tampilan": "50 g tepung panir" },
+      { "nama": "Minyak", "tampilan": "Minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Garam secukupnya",
+      "Saus sambal atau mayones (pelengkap)",
+      "Minyak tambahan (untuk olesan loyang)"
+    ],
+    "steps": [
+      "Di dalam mangkuk, campurkan tahu yang sudah halus, Royco, merica, pala, telur, daging ayam giling, wortel, bawang bombay, dan 2 sdm tepung terigu. Aduk hingga semua bahan tercampur rata.",
+      "Tuangkan adonan ke dalam loyang yang telah diolesi sedikit minyak agar tidak lengket. Kukus adonan hingga matang dan teksturnya memadat. Angkat dan biarkan hingga dingin.",
+      "Potong-potong adonan nugget yang telah dikukus sesuai selera (kotak atau memanjang).",
+      "Lumuri setiap potongan dengan tepung terigu, celupkan ke dalam putih telur, lalu gulingkan ke tepung panir hingga tertutup rata.",
+      "Goreng dalam minyak panas hingga berwarna kuning keemasan. Angkat dan tiriskan.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "204.1 g",
+      "energi": "405.5 kkal",
+      "protein": "25.4 g",
+      "lemak": "18.6 g",
+      "karbohidrat": "34.3 g",
+      "serat": "2.9 g",
+      "vitA": "76%",
+      "vitC": "5%",
+      "vitD": "5%",
+      "kalsium": "18%",
+      "zatBesi": "18%",
+      "seng": "18%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "sup-ayam-daun-kelor",
+    "name": "Sup Ayam Daun Kelor",
+    "image": "../assets/sup-ayam-kelor.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "300 g ayam tanpa kulit, potong-potong" },
+      { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
+      { "nama": "Wortel", "tampilan": "150 g wortel, kupas, potong dadu" },
+      { "nama": "Daun Kelor", "tampilan": "50 g daun kelor, petiki daunnya" },
+      { "nama": "Kol", "tampilan": "50 g kol, potong-potong" },
+      { "nama": "Buncis", "tampilan": "30 g buncis, potong 3 cm" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, simpulkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Garam dan Merica secukupnya",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Di dalam wajan, tumis bawang merah dan bawang putih hingga harum. Angkat, lalu sisihkan.",
+      "Di dalam panci, didihkan air. Masukkan tumisan bawang yang telah disisihkan tadi, kemudian didihkan kembali.",
+      "Masukkan potongan ayam ke dalam air mendidih, masak hingga ayam setengah matang.",
+      "Masukkan kentang dan wortel ke dalam panci, masak hingga sayuran tersebut matang.",
+      "Tambahkan kol, buncis, daun kelor, daun bawang, seledri, Royco Kaldu Ayam, dan sedikit pala bubuk. Aduk rata dan didihkan kembali sebentar hingga daun kelor layu.",
+      "Angkat dan sajikan segera selagi hangat ditemani nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "199.3 g",
+      "energi": "206.7 kkal",
+      "protein": "16.7 g",
+      "lemak": "12.6 g",
+      "karbohidrat": "7.5 g",
+      "serat": "1.4 g",
+      "vitA": "32%",
+      "vitC": "17%",
+      "vitD": "1%",
+      "kalsium": "4%",
+      "zatBesi": "5%",
+      "seng": "7%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "bola-bola-ubi",
+    "name": "Bola-Bola Ubi",
+    "image": "../assets/bola-ubi.png",
+    "ingredients": [
+      { "nama": "Ubi Jalar", "tampilan": "350 g ubi jalar merah, kukus hingga matang, kupas, haluskan" },
+      { "nama": "Gula Halus", "tampilan": "80 g gula halus" },
+      { "nama": "Tepung Tapioka", "tampilan": "80 g tepung tapioka" },
+      { "nama": "Tepung Maizena", "tampilan": "30 g tepung maizena" },
+      { "nama": "Baking Powder", "tampilan": "½ sdt baking powder" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Gula halus tambahan (untuk taburan)",
+      "Cokelat leleh (opsional)",
+      "Keju parut (opsional)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, campurkan ubi jalar yang sudah dihaluskan dengan gula halus, tepung tapioka, maizena, baking powder, dan Royco Kaldu Ayam.",
+      "Uleni adonan secara perlahan hingga semua bahan tercampur rata dan adonan menjadi kalis (mudah dibentuk).",
+      "Ambil sekitar 1 sdt adonan, lalu bentuk menjadi bulatan kecil. Ulangi proses ini hingga seluruh adonan habis.",
+      "Panaskan minyak di dalam wajan menggunakan api sedang.",
+      "Goreng bola-bola ubi hingga berwarna cokelat keemasan. Sambil digoreng, sesekali tekan-tekan dengan sutil agar bagian dalamnya kopong dan bola ubi mengembang.",
+      "Angkat, tiriskan dari minyak, dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "204.1 g",
+      "energi": "405.5 kkal",
+      "protein": "25.4 g",
+      "lemak": "18.6 g",
+      "karbohidrat": "34.3 g",
+      "serat": "2.9 g",
+      "vitA": "76%",
+      "vitC": "5%",
+      "vitD": "5%",
+      "kalsium": "18%",
+      "zatBesi": "18%",
+      "seng": "18%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "nugget-ayam-sayuran",
+    "name": "Nugget Ayam Sayuran",
+    "image": "../assets/nugget-ayam-sayur.png",
+    "ingredients": [
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
+      { "nama": "Judul Nugget", "tampilan": "[ Bahan Nugget ]" },
+      { "nama": "Ayam", "tampilan": "125 g daging ayam giling" },
+      { "nama": "Tepung Roti", "tampilan": "1 sdm tepung roti panir" },
+      { "nama": "Penyedap", "tampilan": "¼ sdt Royco Kaldu Ayam" },
+      { "nama": "Wortel", "tampilan": "½ buah wortel, parut" },
+      { "nama": "Kecap Asin", "tampilan": "1 sdt kecap asin" },
+      { "nama": "Cabai Bubuk", "tampilan": "½ sdt cabai bubuk (opsional)" },
+      { "nama": "Judul Bumbu", "tampilan": "[ Bumbu Halus ]" },
+      { "nama": "Bawang Merah", "tampilan": "2 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih" },
+      { "nama": "Judul Pelapis", "tampilan": "[ Bahan Pelapis ]" },
+      { "nama": "Tepung Terigu", "tampilan": "50 g tepung terigu" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam, kocok" },
+      { "nama": "Tepung Panir", "tampilan": "50 g tepung roti panir" }
+    ],
+    "spices": [
+      "Garam dan Merica secukupnya",
+      "Saus tomat atau sambal (pelengkap)",
+      "Minyak tambahan (untuk olesan loyang)"
+    ],
+    "steps": [
+      "Di dalam mangkuk, aduk rata semua bahan nugget dan bumbu yang telah dihaluskan hingga tercampur sempurna.",
+      "Siapkan loyang, olesi permukaannya dengan sedikit minyak. Tuangkan adonan nugget ke dalam loyang lalu padatkan.",
+      "Kukus adonan hingga matang dan padat selama kurang lebih 20-25 menit. Angkat dan biarkan hingga benar-benar dingin.",
+      "Setelah dingin, keluarkan dari loyang dan potong-potong nugget sesuai selera.",
+      "Lumuri setiap potongan nugget dengan tepung terigu, celupkan ke dalam kocokan telur, lalu gulingkan ke tepung roti panir hingga tertutup rata.",
+      "Goreng dalam minyak panas hingga berwarna cokelat keemasan. Angkat dan tiriskan."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "97.5 g",
+      "energi": "240.9 kkal",
+      "protein": "11.1 g",
+      "lemak": "12.1 g",
+      "karbohidrat": "22.4 g",
+      "serat": "1.5 g",
+      "vitA": "84%",
+      "vitC": "6%",
+      "vitD": "2%",
+      "kalsium": "3%",
+      "zatBesi": "14%",
+      "seng": "15%",
+      "iodium": "4%"
+    }
+  },
+  {
+    "id": "sup-sayur-makaroni",
+    "name": "Sup Sayur Makaroni",
+    "image": "../assets/sup-sayur-makaroni.png",
+    "ingredients": [
+      { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
+      { "nama": "Wortel", "tampilan": "150 g wortel, kupas, potong dadu" },
+      { "nama": "Jagung Putren", "tampilan": "6 buah jagung putren, iris serong" },
+      { "nama": "Makaroni", "tampilan": "50 g makaroni yang sudah direbus" },
+      { "nama": "Kol", "tampilan": "50 g kol, potong-potong" },
+      { "nama": "Buncis", "tampilan": "30 g buncis, potong 3 cm" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, belah 8 bagian" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, simpulkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Garam dan Merica secukupnya",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Di dalam wajan, tumis bawang merah dan bawang putih hingga harum dan kecokelatan. Angkat lalu sisihkan.",
+      "Di dalam panci, didihkan air. Masukkan bawang yang telah ditumis tadi, lalu didihkan kembali.",
+      "Masukkan kentang, wortel, dan jagung putren ke dalam panci. Masak hingga sayuran matang.",
+      "Tambahkan makaroni, kol, buncis, tomat, daun bawang, seledri, Royco Kaldu Ayam, dan sedikit pala bubuk.",
+      "Aduk rata dan didihkan kembali sebentar hingga semua sayuran layu dan bumbu meresap.",
+      "Angkat dan sajikan segera selagi hangat ditemani nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "431.8 g",
+      "energi": "168.2 kkal",
+      "protein": "3.8 g",
+      "lemak": "7.9 g",
+      "karbohidrat": "23 g",
+      "serat": "3.8 g",
+      "vitA": "120%",
+      "vitC": "54%",
+      "vitD": "0%",
+      "kalsium": "5%",
+      "zatBesi": "10%",
+      "seng": "12%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "lumpia-goreng-bengkuang",
+    "name": "Lumpia Goreng",
+    "image": "../assets/lumpia-goreng.png",
+    "ingredients": [
+      { "nama": "Kulit Lumpia", "tampilan": "10 lembar kulit lumpia siap pakai" },
+      { "nama": "Minyak Goreng", "tampilan": "Minyak untuk menggoreng" },
+      { "nama": "Judul Tumis", "tampilan": "[ Bahan Tumis Bengkuang ]" },
+      { "nama": "Bengkuang", "tampilan": "500 g bengkuang, potong korek api" },
+      { "nama": "Kecap Manis", "tampilan": "4 sdm Kecap Bango" },
+      { "nama": "Air", "tampilan": "100 ml air" },
+      { "nama": "Minyak Tumis", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Judul Isi", "tampilan": "[ Bahan Isi ]" },
+      { "nama": "Taoge", "tampilan": "200 gr taoge" },
+      { "nama": "Telur", "tampilan": "4 butir telur" },
+      { "nama": "Ayam", "tampilan": "100 g dada ayam rebus, suwir" },
+      { "nama": "Penyedap", "tampilan": "1 Sachet Royco Ayam" },
+      { "nama": "Minyak", "tampilan": "5 sdm minyak, untuk menumis" },
+      { "nama": "Judul Saus", "tampilan": "[ Bahan Saus ]" },
+      { "nama": "Air Saus", "tampilan": "250 ml air" },
+      { "nama": "Gula Merah", "tampilan": "50 gr gula merah" },
+      { "nama": "Tapioka", "tampilan": "2 sdm tepung tapioka, larutkan dengan 4 sdm air" },
+      { "nama": "Judul Bumbu", "tampilan": "[ Bumbu Halus Tumis Bengkuang ]" },
+      { "nama": "Bawang Putih", "tampilan": "6 siung bawang putih" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah" },
+      { "nama": "Kemiri", "tampilan": "2 butir kemiri, sangrai" }
+    ],
+    "spices": [
+      "Royco Saus Tiram (secukupnya)",
+      "Wortel (opsional, sebagai tambahan tumisan)",
+      "Garam dan Merica secukupnya"
+    ],
+    "steps": [
+      "Tumis bengkuang: Panaskan minyak, tumis bumbu halus hingga harum. Masukkan bengkuang, wortel, Kecap Bango, dan Royco saus tiram. Tuang air, aduk rata, dan masak hingga bengkuang matang serta air menyusut.",
+      "Buat isian telur: Di wajan terpisah, tumis ayam suwir, taoge, telur, dan Royco hingga matang. Campurkan dengan tumisan bengkuang jika suka, atau biarkan terpisah.",
+      "Ambil 1 lembar kulit lumpia, tuangkan 1 sendok makan isian di tengahnya. Lipat dan gulung dengan rapi.",
+      "Saus: Rebus air dan gula merah hingga larut, masukkan larutan tapioka, aduk hingga mengental.",
+      "Panaskan minyak dalam jumlah banyak, goreng lumpia hingga berwarna kuning keemasan. Angkat dan tiriskan.",
+      "Sajikan lumpia goreng selagi hangat bersama sausnya."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "209.5 g",
+      "energi": "412.1 kkal",
+      "protein": "4.5 g",
+      "lemak": "20.8 g",
+      "karbohidrat": "53 g",
+      "serat": "5.7 g",
+      "vitA": "100%",
+      "vitC": "22%",
+      "vitD": "0%",
+      "kalsium": "4%",
+      "zatBesi": "4%",
+      "seng": "4%",
+      "iodium": "55%"
+    }
+  },
+  {
+    "id": "telur-ceplok-kuah-kecap",
+    "name": "Telur Ceplok Kuah Kecap",
+    "image": "../assets/telur-ceplok-kecap.png",
+    "ingredients": [
+      { "nama": "Telur", "tampilan": "4 butir telur ayam, masak telur mata sapi" },
+      { "nama": "Minyak", "tampilan": "1 sdm minyak, untuk menumis" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, potong dadu" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang halus" },
+      { "nama": "Cabai Hijau", "tampilan": "2 buah cabai hijau, iris" },
+      { "nama": "Kecap Manis", "tampilan": "3 sdm Kecap Manis Bango" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Gula", "tampilan": "½ sdt gula" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris" },
+      { "nama": "Minyak Wijen", "tampilan": "1 sdm minyak wijen (opsional)" }
+    ],
+    "spices": [
+      "Air sedikit (untuk kuah nyemek)",
+      "Merica bubuk secukupnya",
+      "Bawang goreng (untuk taburan)"
+    ],
+    "steps": [
+      "Siapkan telur mata sapi (ceplok) terlebih dahulu, sisihkan.",
+      "Panaskan minyak di dalam wajan. Tumis bawang bombay, bawang putih, dan cabai hijau hingga layu dan harum.",
+      "Masukkan Kecap Manis Bango, Royco Kaldu Ayam, dan gula. Tambahkan sedikit air jika ingin kuah lebih meresap.",
+      "Masukkan telur ceplok dan daun bawang, aduk perlahan agar bumbu merata tanpa merusak telur.",
+      "Tuangkan minyak wijen untuk aroma lebih sedap, aduk sebentar, lalu angkat.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "95.1 g",
+      "energi": "178.2 kkal",
+      "protein": "6.5 g",
+      "lemak": "11.8 g",
+      "karbohidrat": "12.2 g",
+      "serat": "0.6 g",
+      "vitA": "54%",
+      "vitC": "56%",
+      "vitD": "10%",
+      "kalsium": "3%",
+      "zatBesi": "10%",
+      "seng": "16%",
+      "iodium": "8%"
+    }
+  },
+  {
+    "id": "sup-bayam-bakso",
+    "name": "Sup Bayam Bakso",
+    "image": "../assets/sup-bayam-bakso.png",
+    "ingredients": [
+      { "nama": "Bayam", "tampilan": "200 g daun bayam" },
+      { "nama": "Bakso", "tampilan": "10 butir bakso sapi" },
+      { "nama": "Jagung", "tampilan": "1 buah jagung manis, potong-potong" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, potong" },
+      { "nama": "Wortel", "tampilan": "2 buah wortel, kupas, iris" },
+      { "nama": "Bawang Merah", "tampilan": "3 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "2 sdt Royco Rasa Sapi" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Bawang goreng (untuk taburan)"
+    ],
+    "steps": [
+      "Di dalam panci, didihkan air. Masukkan bakso sapi, lalu masak selama beberapa menit hingga bakso mengapung.",
+      "Masukkan potongan wortel dan jagung manis, masak selama kurang lebih 2 menit hingga teksturnya mulai empuk.",
+      "Tambahkan irisan bawang merah dan bawang putih, lalu didihkan kembali agar aroma bawang meresap ke dalam kuah.",
+      "Masukkan daun bayam dan tomat. Tambahkan Royco Rasa Sapi dan merica bubuk, lalu aduk rata.",
+      "Masak sebentar saja agar bayam tetap segar, lalu segera angkat.",
+      "Sajikan selagi hangat ditemani nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "409.5 g",
+      "energi": "119.7 kkal",
+      "protein": "6.2 g",
+      "lemak": "6 g",
+      "karbohidrat": "3.2 g",
+      "serat": "2.5 g",
+      "vitA": "108%",
+      "vitC": "38%",
+      "vitD": "1%",
+      "kalsium": "8%",
+      "zatBesi": "10%",
+      "seng": "8%",
+      "iodium": "33%"
+    }
+  },
+  {
+    "id": "pizza-tahu-sehat",
+    "name": "Pizza Tahu",
+    "image": "../assets/pizza-tahu.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "100 g tahu sutera, potong dadu" },
+      { "nama": "Bawang Bombay", "tampilan": "30 g bawang bombay, iris memanjang" },
+      { "nama": "Paprika Merah", "tampilan": "20 g paprika merah, iris memanjang" },
+      { "nama": "Paprika Hijau", "tampilan": "20 g paprika hijau, iris memanjang" },
+      { "nama": "Telur", "tampilan": "4 butir telur ayam" },
+      { "nama": "Tepung Tapioka", "tampilan": "1 sdm tepung tapioka" },
+      { "nama": "Susu", "tampilan": "50 ml susu cair" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Keju", "tampilan": "50 g keju cheddar parut" },
+      { "nama": "Minyak", "tampilan": "1 sdm minyak" }
+    ],
+    "spices": [
+      "Saus tomat atau sambal (pelengkap)",
+      "Oregano kering (opsional)",
+      "Merica bubuk secukupnya"
+    ],
+    "steps": [
+      "Di dalam mangkuk, kocok telur lalu campurkan dengan tepung tapioka, susu cair, dan Royco Kaldu Ayam. Aduk hingga rata dan tidak ada tepung yang menggumpal.",
+      "Panaskan minyak di atas wajan anti lengket (teflon) menggunakan api kecil.",
+      "Tuangkan campuran telur ke dalam wajan, ratakan hingga membentuk dasar pizza.",
+      "Tata potongan tahu sutera, bawang bombay, paprika merah, paprika hijau, dan taburan keju di atas adonan telur.",
+      "Tutup wajan dan masak hingga telur matang sempurna dan keju meleleh.",
+      "Angkat secara perlahan dan sajikan pizza tahu selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "84.4 g",
+      "energi": "126.6 kkal",
+      "protein": "7.3 g",
+      "lemak": "9.1 g",
+      "karbohidrat": "4.2 g",
+      "serat": "0.3 g",
+      "vitA": "36%",
+      "vitC": "8%",
+      "vitD": "8%",
+      "kalsium": "9%",
+      "zatBesi": "4%",
+      "seng": "7%",
+      "iodium": "11%"
+    }
+  },
+  {
+    "id": "bakwan-tahu-sayur",
+    "name": "Bakwan Tahu",
+    "image": "../assets/bakwan-tahu.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "250 g tahu putih, haluskan" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Kol", "tampilan": "100 g kol, iris halus" },
+      { "nama": "Wortel", "tampilan": "½ buah wortel, kupas, potong korek api" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "1 sdm daun bawang batang iris" },
+      { "nama": "Tepung Terigu", "tampilan": "50 g terigu" },
+      { "nama": "Minyak", "tampilan": "150 ml minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Cabai rawit (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam wadah besar, aduk rata tahu yang sudah dihaluskan, telur, kol, wortel, Royco Kaldu Ayam, merica, dan daun bawang.",
+      "Masukkan tepung terigu ke dalam adonan, lalu aduk kembali hingga semua bahan tercampur rata.",
+      "Panaskan minyak di dalam wajan. Ambil sekitar 1 sendok makan adonan bakwan, lalu masukkan secara perlahan ke dalam minyak panas.",
+      "Goreng adonan hingga matang merata dan berwarna cokelat keemasan. Angkat lalu tiriskan.",
+      "Ulangi proses penggorengan hingga seluruh adonan habis.",
+      "Sajikan bakwan tahu selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "127.5 g",
+      "energi": "211.2 kkal",
+      "protein": "13 g",
+      "lemak": "11.6 g",
+      "karbohidrat": "14.8 g",
+      "serat": "2.1 g",
+      "vitA": "63%",
+      "vitC": "15%",
+      "vitD": "2%",
+      "kalsium": "12%",
+      "zatBesi": "10%",
+      "seng": "9%",
+      "iodium": "4%"
+    }
+  },
+  {
+    "id": "tumis-taoge-ikan-asin",
+    "name": "Tumis Taoge Ikan Asin",
+    "image": "../assets/tumis-taoge.png",
+    "ingredients": [
+      { "nama": "Ikan Asin", "tampilan": "10 g ikan asin jambal yang sudah digoreng" },
+      { "nama": "Tahu", "tampilan": "1 buah tahu, potong dadu kecil, goreng hingga kecoklatan" },
+      { "nama": "Taoge", "tampilan": "200 g taoge" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, geprek" },
+      { "nama": "Cabai Merah", "tampilan": "3 buah cabai merah, iris serong" },
+      { "nama": "Kucai", "tampilan": "3 batang kucai, potong 3 cm" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "100 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Gula secukupnya",
+      "Merica bubuk secukupnya",
+      "Garam (sedikit saja karena sudah ada ikan asin)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih geprek dan irisan cabai merah hingga harum dan layu.",
+      "Masukkan taoge dan tahu yang sudah digoreng, aduk hingga tercampur rata.",
+      "Tambahkan Royco Kaldu Ayam dan air. Masak sebentar saja dengan api besar agar taoge tetap renyah.",
+      "Taburkan ikan asin jambal goreng dan kucai, aduk rata sejenak.",
+      "Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "118.5 g",
+      "energi": "167.2 kkal",
+      "protein": "8.6 g",
+      "lemak": "12.6 g",
+      "karbohidrat": "7 g",
+      "serat": "2.3 g",
+      "vitA": "45%",
+      "vitC": "18%",
+      "vitD": "0%",
+      "kalsium": "11%",
+      "zatBesi": "8%",
+      "seng": "8%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "risol-sayuran-panir",
+    "name": "Risol Sayuran",
+    "image": "../assets/risol-sayuran.png",
+    "ingredients": [
+      { "nama": "Kulit Risol", "tampilan": "8 lembar kulit risol siap pakai" },
+      { "nama": "Minyak Goreng", "tampilan": "Minyak untuk menggoreng" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang halus" },
+      { "nama": "Ayam", "tampilan": "2 sdm daging ayam giling" },
+      { "nama": "Sayuran", "tampilan": "200 g mix vegetables (wortel, buncis, jagung)" },
+      { "nama": "Penyedap", "tampilan": "1 ¼ sdt Royco Kaldu Ayam" },
+      { "nama": "Gula", "tampilan": "¼ sdt gula pasir" },
+      { "nama": "Air", "tampilan": "50 ml air" },
+      { "nama": "Daun Bawang", "tampilan": "½ batang daun bawang, iris tipis" },
+      { "nama": "Tepung Terigu", "tampilan": "2 sdm tepung terigu (untuk pengental isi)" },
+      { "nama": "Perekat", "tampilan": "4 sdm air (campuran tepung)" },
+      { "nama": "Minyak Tumis", "tampilan": "1 sdm minyak, untuk menumis" },
+      { "nama": "Telur Pelapis", "tampilan": "1 butir telur ayam, kocok dengan 1 sdm air" },
+      { "nama": "Tepung Panir", "tampilan": "100 g tepung panir" }
+    ],
+    "spices": [
+      "Cabai rawit hijau (pelengkap)",
+      "Saus sambal (pelengkap)",
+      "Merica bubuk secukupnya"
+    ],
+    "steps": [
+      "Isian: Panaskan minyak, tumis bawang putih hingga harum. Masukkan tepung terigu dan sedikit air, aduk cepat hingga mengental.",
+      "Masukkan daging ayam giling, masak hingga berubah warna. Tambahkan mix vegetables, Royco, gula, dan sisa air. Masak hingga sayuran matang dan air meresap. Angkat dan dinginkan.",
+      "Ambil 1 lembar kulit risol, letakkan isian di tengahnya. Lipat sisi kanan-kiri lalu gulung rapi. Rekatkan ujungnya dengan sedikit kocokan telur.",
+      "Celupkan risol ke dalam sisa kocokan telur, lalu gulingkan ke atas tepung panir hingga tertutup rata.",
+      "Simpan risol di dalam kulkas selama 15-30 menit agar tepung panir menempel sempurna dan tidak rontok saat digoreng.",
+      "Panaskan minyak dengan api sedang. Goreng risol hingga berwarna cokelat keemasan. Angkat dan tiriskan.",
+      "Sajikan hangat dengan cabai rawit atau saus sambal."
+    ],
+    "nutrition": {
+      "takaranSaji": "8 sajian",
+      "jumlahPerSajian": "76.5 g",
+      "energi": "143.6 kkal",
+      "protein": "3.9 g",
+      "lemak": "6.8 g",
+      "karbohidrat": "17.5 g",
+      "serat": "1.8 g",
+      "vitA": "105%",
+      "vitC": "1%",
+      "vitD": "1%",
+      "kalsium": "2%",
+      "zatBesi": "3%",
+      "seng": "3%",
+      "iodium": "10%"
+    }
+  },
+  {
+    "id": "sup-ayam-pakcoy-sehat",
+    "name": "Sup Ayam Pakcoy",
+    "image": "../assets/sup-ayam-pakcoy.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "200 g ayam tanpa kulit, potong-potong" },
+      { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
+      { "nama": "Wortel", "tampilan": "150 g wortel, kupas, potong dadu" },
+      { "nama": "Pakcoy", "tampilan": "150 g pakcoy, potong 3 cm" },
+      { "nama": "Kol", "tampilan": "50 g kol, potong-potong" },
+      { "nama": "Buncis", "tampilan": "50 g buncis, potong 3 cm" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, simpulkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Garam dan Merica secukupnya",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Tumis bawang merah dan bawang putih di dalam wajan hingga harum dan berwarna keemasan. Angkat lalu sisihkan.",
+      "Didihkan air di dalam panci. Masukkan tumisan bawang tadi, lalu didihkan kembali.",
+      "Masukkan potongan ayam ke dalam air mendidih. Masak hingga ayam setengah matang.",
+      "Masukkan kentang dan wortel ke dalam panci, masak hingga sayuran empuk dan matang.",
+      "Tambahkan kol, buncis, pakcoy, daun bawang, seledri, Royco Kaldu Ayam, dan sedikit pala bubuk. Aduk rata.",
+      "Didihkan kembali sebentar hingga sayuran hijau layu namun tetap segar. Angkat.",
+      "Sajikan segera selagi hangat bersama nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "162.5 g",
+      "energi": "124.6 kkal",
+      "protein": "16.2 g",
+      "lemak": "1.7 g",
+      "karbohidrat": "11 g",
+      "serat": "2.2 g",
+      "vitA": "67%",
+      "vitC": "29%",
+      "vitD": "0%",
+      "kalsium": "6%",
+      "zatBesi": "5%",
+      "seng": "6%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "tempura-sayur-asam-manis",
+    "name": "Tempura Sayur Saus Asam Manis",
+    "image": "../assets/tempura-sayur.png",
+    "ingredients": [
+      { "nama": "Kol", "tampilan": "250 g kol, iris tipis" },
+      { "nama": "Wortel", "tampilan": "100 g wortel, potong korek api" },
+      { "nama": "Buncis", "tampilan": "50 g buncis, potong korek api" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Tepung Terigu", "tampilan": "175 g tepung terigu" },
+      { "nama": "Penyedap", "tampilan": "1 bungkus Royco Kaldu Ayam" },
+      { "nama": "Bawang Putih", "tampilan": "5 siung bawang putih, parut" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Air", "tampilan": "250 ml air" },
+      { "nama": "Minyak", "tampilan": "Minyak secukupnya, untuk menggoreng" },
+      { "nama": "Saus", "tampilan": "Sambal Bangkok, untuk cocolan" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam secukupnya",
+      "Sedikit tepung maizena (opsional untuk kerenyahan ekstra)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, aduk rata tepung terigu, Royco Kaldu Ayam, dan air hingga menjadi adonan halus.",
+      "Masukkan telur dan parutan bawang putih ke dalam adonan tepung, lalu aduk hingga tercampur rata.",
+      "Tambahkan irisan kol, wortel, buncis, dan daun bawang ke dalam adonan. Aduk kembali hingga seluruh sayuran terbalut adonan.",
+      "Panaskan minyak dalam jumlah banyak di atas api sedang.",
+      "Ambil satu sendok sayur adonan, lalu masukkan secara perlahan ke dalam minyak panas. Goreng secara bertahap.",
+      "Masak hingga tempura matang merata dan berwarna kuning keemasan. Angkat lalu tiriskan.",
+      "Sajikan segera selagi renyah dengan cocolan Sambal Bangkok."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "313.4 g",
+      "energi": "306.3 kkal",
+      "protein": "8.2 g",
+      "lemak": "10.4 g",
+      "karbohidrat": "45.6 g",
+      "serat": "4.3 g",
+      "vitA": "64%",
+      "vitC": "67%",
+      "vitD": "2%",
+      "kalsium": "7%",
+      "zatBesi": "15%",
+      "seng": "16%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "bakso-goreng-wortel",
+    "name": "Bakso Goreng Wortel",
+    "image": "../assets/bakso-goreng-wortel.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "200 g daging ayam giling" },
+      { "nama": "Wortel", "tampilan": "50 g wortel parut" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, parut" },
+      { "nama": "Daun Bawang", "tampilan": "½ batang daun bawang, iris halus" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak Wijen", "tampilan": "¼ sdt minyak wijen" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Air", "tampilan": "60 ml air dingin" },
+      { "nama": "Tepung Sagu", "tampilan": "100 g tepung sagu" },
+      { "nama": "Baking Powder", "tampilan": "½ sdt baking powder" },
+      { "nama": "Minyak", "tampilan": "Minyak secukupnya, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam secukupnya",
+      "Saus sambal atau saus tomat (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, campurkan daging ayam giling, wortel parut, bawang putih parut, dan daun bawang. Aduk hingga rata.",
+      "Tambahkan Royco Kaldu Ayam, minyak wijen, telur, dan air dingin. Aduk kembali hingga seluruh bahan menyatu.",
+      "Masukkan tepung sagu dan baking powder sedikit demi sedikit sambil terus diaduk hingga menjadi adonan yang kalis dan bisa dibentuk.",
+      "Panaskan minyak dalam jumlah banyak di atas api sedang.",
+      "Bentuk adonan menjadi bulatan menggunakan bantuan dua sendok atau tangan, lalu masukkan ke dalam minyak panas.",
+      "Goreng bakso hingga matang merata, mengembang, dan berwarna cokelat keemasan. Angkat lalu tiriskan.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "177.4 g",
+      "energi": "170.9 kkal",
+      "protein": "7.9 g",
+      "lemak": "11.8 g",
+      "karbohidrat": "94 g",
+      "serat": "1.8 g",
+      "vitA": "78%",
+      "vitC": "9%",
+      "vitD": "2%",
+      "kalsium": "8%",
+      "zatBesi": "10%",
+      "seng": "17%",
+      "iodium": "11%"
+    }
+  },
+  {
+    "id": "stik-ikan-krenyes",
+    "name": "Stik Ikan Krenyes",
+    "image": "../assets/stik-ikan-krenyes.png",
+    "ingredients": [
+      { "nama": "Ikan", "tampilan": "200 g filet ikan kakap putih atau gurami, potong persegi panjang" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih, parut" },
+      { "nama": "Jahe", "tampilan": "1 cm jahe, kupas, parut" },
+      { "nama": "Jeruk Nipis", "tampilan": "1 sdt air jeruk nipis" },
+      { "nama": "Penyedap Ikan", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "Minyak secukupnya, untuk menggoreng" },
+      { "nama": "Judul Pelapis Kering", "tampilan": "[ Bahan Pelapis Kering ]" },
+      { "nama": "Tepung Terigu Kering", "tampilan": "200 g tepung terigu" },
+      { "nama": "Tepung Tapioka", "tampilan": "2 sdm tepung tapioka atau sagu" },
+      { "nama": "Cabai Bubuk Kering", "tampilan": "1 sdt cabai bubuk" },
+      { "nama": "Penyedap Kering", "tampilan": "¾ sdt Royco Kaldu Ayam" },
+      { "nama": "Judul Pelapis Basah", "tampilan": "[ Bahan Pelapis Basah ]" },
+      { "nama": "Tepung Terigu Basah", "tampilan": "75 g tepung terigu" },
+      { "nama": "Cabai Bubuk Basah", "tampilan": "½ sdt cabai bubuk" },
+      { "nama": "Penyedap Basah", "tampilan": "¼ sdt Royco Kaldu Ayam" },
+      { "nama": "Baking Powder", "tampilan": "½ sdt baking powder" },
+      { "nama": "Air Dingin", "tampilan": "100 ml air dingin" },
+      { "nama": "Minyak Campuran", "tampilan": "½ sdm minyak" }
+    ],
+    "spices": [
+      "Saus sambal (pelengkap)",
+      "Nasi putih (pelengkap)",
+      "Merica bubuk secukupnya"
+    ],
+    "steps": [
+      "Di dalam wadah, bumbui potongan ikan dengan bawang putih, jahe, air jeruk nipis, dan Royco. Diamkan selama 15 menit agar bumbu meresap.",
+      "Siapkan bahan pelapis kering dengan mencampur semua bahan pelapis kering di satu wadah. Siapkan juga adonan pelapis basah dengan mencampur semua bahan pelapis basah di wadah berbeda.",
+      "Ambil potongan ikan, lapisi dengan tepung pelapis kering secara merata.",
+      "Celupkan ikan yang sudah bertepung ke dalam adonan pelapis basah, lalu gulingkan kembali ke dalam tepung pelapis kering sambil sedikit diremas agar terbentuk tekstur krenyes.",
+      "Panaskan minyak dalam jumlah banyak. Goreng ikan hingga matang dan berwarna kuning keemasan. Angkat lalu tiriskan.",
+      "Sajikan segera dengan nasi putih dan saus sambal."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "169.2 g",
+      "energi": "453.6 kkal",
+      "protein": "17.8 g",
+      "lemak": "16.5 g",
+      "karbohidrat": "57.1 g",
+      "serat": "2.3 g",
+      "vitA": "6%",
+      "vitC": "3%",
+      "vitD": "34%",
+      "kalsium": "4%",
+      "zatBesi": "11%",
+      "seng": "15%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "oseng-sawi-telur",
+    "name": "Oseng Sawi Telur",
+    "image": "../assets/oseng-sawi-telur.png",
+    "ingredients": [
+      { "nama": "Sawi Hijau", "tampilan": "250 g pakcoy atau sawi hijau, potong 3 cm" },
+      { "nama": "Telur", "tampilan": "3 butir telur ayam, kocok lepas" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, memarkan" },
+      { "nama": "Cabai Merah", "tampilan": "2 buah cabai merah, buang bijinya iris tipis" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, potong" },
+      { "nama": "Penyedap", "tampilan": "2 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "50 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Nasi putih (pelengkap)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih memar dan irisan cabai merah hingga tercium aroma harum.",
+      "Masukkan telur kocok, lalu masak orak-arik hingga telur matang dan berbutir.",
+      "Masukkan pakcoy atau sawi hijau, potongan tomat, Royco Kaldu Ayam, sedikit merica, dan air.",
+      "Aduk rata dan masak dengan api besar hingga sawi sedikit layu namun tetap segar. Segera angkat.",
+      "Sajikan oseng sawi telur selagi hangat bersama nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "137.1 g",
+      "energi": "110.6 kkal",
+      "protein": "4.1 g",
+      "lemak": "8.6 g",
+      "karbohidrat": "6.2 g",
+      "serat": "2.8 g",
+      "vitA": "76%",
+      "vitC": "79%",
+      "vitD": "2%",
+      "kalsium": "8%",
+      "zatBesi": "7%",
+      "seng": "4%",
+      "iodium": "33%"
+    }
+  },
+  {
+    "id": "bakwan-sayur-krispi",
+    "name": "Bakwan Sayur",
+    "image": "../assets/bakwan-sayur.png",
+    "ingredients": [
+      { "nama": "Kol", "tampilan": "150 g kol, iris memanjang" },
+      { "nama": "Tepung Terigu", "tampilan": "150 g tepung terigu" },
+      { "nama": "Wortel", "tampilan": "50 g wortel, potong korek api" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, iris memanjang" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, haluskan atau parut" },
+      { "nama": "Tepung Tapioka", "tampilan": "1 sdm tepung tapioka" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "200 ml air" },
+      { "nama": "Minyak", "tampilan": "Minyak secukupnya, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Saus sambal Jawara (pelengkap)",
+      "Cabai rawit hijau (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, campurkan kol, tepung terigu, wortel, bawang bombay, bawang putih, tapioka, daun bawang, seledri, Royco Kaldu Ayam, dan merica. Aduk rata.",
+      "Tuangkan air secara perlahan sambil terus diaduk hingga adonan mencapai tingkat kekentalan yang diinginkan.",
+      "Panaskan minyak di dalam wajan menggunakan api sedang.",
+      "Ambil 1 sdm adonan, lalu masukkan secara perlahan ke dalam minyak panas. Lakukan proses ini secara bertahap agar bakwan matang merata.",
+      "Goreng hingga bakwan berwarna cokelat keemasan dan teksturnya garing. Angkat lalu tiriskan.",
+      "Ulangi proses penggorengan hingga seluruh adonan habis.",
+      "Sajikan segera selagi hangat bersama saus sambal Jawara."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "107.3 g",
+      "energi": "122.4 kkal",
+      "protein": "3.2 g",
+      "lemak": "1.3 g",
+      "karbohidrat": "24.2 g",
+      "serat": "1.6 g",
+      "vitA": "20%",
+      "vitC": "9%",
+      "vitD": "0%",
+      "kalsium": "2%",
+      "zatBesi": "7%",
+      "seng": "2%",
+      "iodium": "11%"
+    }
+  },
+  {
+    "id": "sup-ayam-bening-klasik",
+    "name": "Sup Ayam Bening",
+    "image": "../assets/sup-ayam-bening.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "250 g ayam tanpa kulit, potong-potong" },
+      { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
+      { "nama": "Wortel", "tampilan": "250 g wortel, kupas, potong dadu" },
+      { "nama": "Kol", "tampilan": "50 g kol, potong-potong" },
+      { "nama": "Buncis", "tampilan": "50 g buncis, potong 3 cm" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "4 siung bawang putih, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, simpulkan" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Garam dan Merica secukupnya",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Tumis bawang merah dan bawang putih di dalam wajan hingga harum dan berwarna keemasan. Angkat lalu sisihkan.",
+      "Didihkan air di dalam panci, kemudian masukkan tumisan bawang tadi dan didihkan kembali.",
+      "Masukkan potongan ayam ke dalam air mendidih. Masak hingga ayam setengah matang.",
+      "Masukkan kentang dan wortel, masak hingga tekstur sayuran menjadi empuk.",
+      "Tambahkan kol, buncis, daun bawang, seledri, Royco Kaldu Ayam, dan sedikit pala bubuk. Aduk rata.",
+      "Didihkan kembali sebentar hingga semua sayuran matang sempurna, lalu angkat.",
+      "Sajikan sup selagi hangat ditemani dengan nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "454.5 g",
+      "energi": "215.3 kkal",
+      "protein": "14.8 g",
+      "lemak": "10.9 g",
+      "karbohidrat": "15.7 g",
+      "serat": "3.3 g",
+      "vitA": "132%",
+      "vitC": "23%",
+      "vitD": "1%",
+      "kalsium": "6%",
+      "zatBesi": "5%",
+      "seng": "8%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "bola-tahu-bayam-goreng",
+    "name": "Bola Tahu Bayam",
+    "image": "../assets/bola-tahu-bayam.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "300 g tahu, haluskan dengan garpu" },
+      { "nama": "Bayam", "tampilan": "100 g daun bayam, iris tipis" },
+      { "nama": "Tepung Terigu", "tampilan": "4 sdm tepung terigu" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam, kocok lepas" },
+      { "nama": "Penyedap", "tampilan": "1 ½ sdt Royco Kaldu Ayam" },
+      { "nama": "Bawang Putih", "tampilan": "1 sdm bawang putih goreng, haluskan" },
+      { "nama": "Bawang Merah", "tampilan": "1 sdm bawang merah goreng, haluskan" },
+      { "nama": "Seledri", "tampilan": "1 batang daun seledri, iris tipis" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Saus sambal atau saus tomat (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, campurkan tahu yang sudah dihaluskan, daun bayam, tepung terigu, dan telur kocok.",
+      "Tambahkan Royco Kaldu Ayam, bawang putih goreng halus, bawang merah goreng halus, dan seledri. Aduk rata hingga semua bahan menyatu.",
+      "Bagi adonan menjadi 15 bagian, lalu bentuk masing-masing bagian menjadi bola-bola kecil.",
+      "Panaskan minyak di atas api sedang.",
+      "Goreng bola-bola tahu hingga matang merata dan berwarna kuning keemasan. Angkat lalu tiriskan.",
+      "Sajikan bola tahu bayam selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "132.8 g",
+      "energi": "174.9 kkal",
+      "protein": "8.8 g",
+      "lemak": "12.5 g",
+      "karbohidrat": "8.4 g",
+      "serat": "1 g",
+      "vitA": "23%",
+      "vitC": "8%",
+      "vitD": "2%",
+      "kalsium": "11%",
+      "zatBesi": "8%",
+      "seng": "7%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "arem-arem-mie-daging",
+    "name": "Arem-Arem Isi Mie Daging",
+    "image": "../assets/arem-arem-mie.png",
+    "ingredients": [
+      { "nama": "Mie Telur", "tampilan": "150 gr mi telur kering, rebus, tiriskan" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam, kocok lepas" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris halus" },
+      { "nama": "Pembungkus", "tampilan": "Daun pisang dan tusuk gigi secukupnya" },
+      { "nama": "Judul Isi", "tampilan": "[ Bahan Isi ]" },
+      { "nama": "Daging Sapi", "tampilan": "200 gr daging sapi giling tanpa lemak" },
+      { "nama": "Wortel", "tampilan": "120 gr wortel, cincang" },
+      { "nama": "Santan", "tampilan": "3 sdm santan instan" },
+      { "nama": "Air", "tampilan": "100 ml air" },
+      { "nama": "Daun Salam", "tampilan": "2 lembar daun salam" },
+      { "nama": "Cabai Rawit", "tampilan": "8 buah cabai rawit utuh" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" },
+      { "nama": "Judul Bumbu", "tampilan": "[ Bumbu Halus ]" },
+      { "nama": "Bawang Merah", "tampilan": "6 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "3 siung bawang putih" }
+    ],
+    "spices": [
+      "Royco Kaldu Sapi secukupnya",
+      "Bango Kecap Manis secukupnya",
+      "Garam dan Merica secukupnya"
+    ],
+    "steps": [
+      "Isi: Panaskan minyak, tumis bumbu halus dan daun salam hingga harum. Masukkan daging sapi giling, tumis hingga berubah warna (setengah matang).",
+      "Tambahkan wortel, lalu tuangkan air, santan, Royco Kaldu Sapi, dan Bango Kecap Manis. Masak hingga daging matang dan bumbu meresap.",
+      "Masukkan mie yang sudah direbus ke dalam tumisan isi. Masak hingga sisa air terserap habis. Angkat dan biarkan hingga suhu ruang.",
+      "Setelah dingin, tambahkan kocokan telur dan irisan daun bawang ke dalam campuran mie, aduk hingga rata.",
+      "Siapkan daun pisang, letakkan 2 sdm campuran mie dan ratakan. Letakkan 1 sdm bahan isi dan 1 buah cabai rawit di atasnya.",
+      "Gulung daun pisang sambil dipadatkan, lalu sematkan kedua ujungnya dengan tusuk gigi. Ulangi hingga semua bahan habis.",
+      "Panaskan kukusan (dandang), lalu kukus arem-arem selama 15-20 menit hingga matang sempurna.",
+      "Angkat dan sajikan."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "197.7 g",
+      "energi": "363.3 kkal",
+      "protein": "19 g",
+      "lemak": "17.8 g",
+      "karbohidrat": "32.8 g",
+      "serat": "2.4 g",
+      "vitA": "97%",
+      "vitC": "10%",
+      "vitD": "6%",
+      "kalsium": "5%",
+      "zatBesi": "14%",
+      "seng": "29%",
+      "iodium": "49%"
+    }
+  },
+  {
+    "id": "semur-telur-tahu-sehat",
+    "name": "Semur Telur",
+    "image": "../assets/semur-telur.png",
+    "ingredients": [
+      { "nama": "Tahu", "tampilan": "2 kotak tahu putih, potong" },
+      { "nama": "Telur", "tampilan": "4 buah telur, rebus, kupas" },
+      { "nama": "Wortel", "tampilan": "200 g wortel, kupas, potong dadu" },
+      { "nama": "Buncis", "tampilan": "50 g buncis, potong 3 cm" },
+      { "nama": "Tomat", "tampilan": "1 buah tomat, potong-potong" },
+      { "nama": "Air", "tampilan": "650 ml air" },
+      { "nama": "Kecap Manis", "tampilan": "60 ml Kecap Manis Bango" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "1 sdm minyak, untuk menumis" },
+      { "nama": "Bawang Merah", "tampilan": "3 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih" }
+    ],
+    "spices": [
+      "Pala bubuk secukupnya",
+      "Merica bubuk secukupnya",
+      "Nasi putih (sebagai pelengkap)"
+    ],
+    "steps": [
+      "Haluskan bawang merah dan bawang putih, lalu tumis di dalam panci hingga harum.",
+      "Tuangkan air dan Kecap Manis Bango ke dalam panci, lalu didihkan.",
+      "Masukkan potongan tahu, wortel, dan telur rebus. Masak hingga wortel mulai lunak dan bumbu mulai meresap.",
+      "Tambahkan buncis, potongan tomat, Royco Kaldu Ayam, pala, dan merica. Aduk rata.",
+      "Masak hingga seluruh bumbu meresap sempurna dan sayuran matang. Angkat.",
+      "Sajikan semur selagi hangat ditemani nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "324.4 g",
+      "energi": "180.4 kkal",
+      "protein": "7.4 g",
+      "lemak": "8.7 g",
+      "karbohidrat": "19.4 g",
+      "serat": "2.3 g",
+      "vitA": "186%",
+      "vitC": "11%",
+      "vitD": "10%",
+      "kalsium": "5%",
+      "zatBesi": "6%",
+      "seng": "7%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "bakwan-jamur-tiram-ayam",
+    "name": "Bakwan Jamur Tiram",
+    "image": "../assets/bakwan-jamur-tiram.png",
+    "ingredients": [
+      { "nama": "Jamur Tiram", "tampilan": "250 g jamur tiram, suwir" },
+      { "nama": "Ayam", "tampilan": "50 g daging ayam giling" },
+      { "nama": "Daun Bawang", "tampilan": "2 batang daun bawang, iris tipis" },
+      { "nama": "Bawang Bombay", "tampilan": "1 buah bawang bombay, iris memanjang" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Air", "tampilan": "100 ml air" },
+      { "nama": "Tepung Terigu", "tampilan": "100 g tepung terigu" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "Minyak secukupnya, untuk menggoreng" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih, haluskan" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Cabai rawit hijau (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam mangkuk besar, campurkan jamur tiram, daging ayam giling, daun bawang, bawang bombay, telur, tepung terigu, Royco Kaldu Ayam, dan bawang putih halus.",
+      "Tuangkan air sedikit demi sedikit sambil diaduk rata hingga adonan menyatu sempurna.",
+      "Panaskan minyak di dalam wajan menggunakan api sedang.",
+      "Ambil 1 sdm adonan, masukkan ke dalam minyak panas, lalu pipihkan perlahan agar matang merata.",
+      "Goreng hingga bakwan berwarna cokelat keemasan dan garing. Angkat lalu tiriskan.",
+      "Ulangi proses hingga seluruh adonan habis.",
+      "Sajikan segera selagi hangat bersama cabai rawit hijau."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "117.6 g",
+      "energi": "151.3 kkal",
+      "protein": "6.2 g",
+      "lemak": "6.6 g",
+      "karbohidrat": "17.5 g",
+      "serat": "1.8 g",
+      "vitA": "30%",
+      "vitC": "2%",
+      "vitD": "3%",
+      "kalsium": "2%",
+      "zatBesi": "8%",
+      "seng": "6%",
+      "iodium": "11%"
+    }
+  },
+  {
+    "id": "pizza-mie-ayam-keju",
+    "name": "Pizza Mie",
+    "image": "../assets/pizza-mie.png",
+    "ingredients": [
+      { "nama": "Mie Telur", "tampilan": "100 g mi telur, rebus, tiriskan" },
+      { "nama": "Telur", "tampilan": "3 butir telur ayam" },
+      { "nama": "Bawang Bombay", "tampilan": "¼ buah bawang bombay, cincang halus" },
+      { "nama": "Sayuran", "tampilan": "50 g mix vegetables" },
+      { "nama": "Daging Ayam", "tampilan": "50 g daging ayam giling" },
+      { "nama": "Keju", "tampilan": "50 g keju cheddar, potong dadu kecil" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Minyak", "tampilan": "3 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Saus sambal atau saus tomat (pelengkap)",
+      "Parsley kering (opsional)"
+    ],
+    "steps": [
+      "Di dalam wadah besar, campurkan mie yang sudah direbus dengan telur, bawang bombay, mix vegetables, daging ayam giling, keju, dan Royco Kaldu Ayam. Aduk hingga semua bahan tercampur rata.",
+      "Panaskan minyak di atas wajan anti lengket (teflon) menggunakan api sedang cenderung kecil.",
+      "Tuangkan campuran adonan pizza mie ke dalam wajan, ratakan hingga membentuk lingkaran.",
+      "Masak hingga bagian bawah matang dan berwarna kecokelatan, lalu balik perlahan. Masak kembali hingga kedua sisi matang sempurna.",
+      "Angkat, tiriskan sejenak, dan sajikan selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "8 sajian",
+      "jumlahPerSajian": "66.6 g",
+      "energi": "128.6 kkal",
+      "protein": "5.6 g",
+      "lemak": "9.9 g",
+      "karbohidrat": "4.7 g",
+      "serat": "0.5 g",
+      "vitA": "30%",
+      "vitC": "2%",
+      "vitD": "3%",
+      "kalsium": "5%",
+      "zatBesi": "3%",
+      "seng": "5%",
+      "iodium": "4%"
+    }
+  },
+  {
+    "id": "kembung-goreng-cabai-hijau",
+    "name": "Kembung Goreng Cabai Hijau",
+    "image": "../assets/kembung-cabai-hijau.png",
+    "ingredients": [
+      { "nama": "Ikan Kembung", "tampilan": "400 g ikan kembung, bersihkan, potong 2 bagian, goreng" },
+      { "nama": "Bawang Merah", "tampilan": "5 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "3 siung bawang putih, iris tipis" },
+      { "nama": "Daun Salam", "tampilan": "2 lembar daun salam" },
+      { "nama": "Jahe", "tampilan": "2 cm jahe, memarkan" },
+      { "nama": "Lengkuas", "tampilan": "2 cm lengkuas, memarkan" },
+      { "nama": "Cabai Hijau", "tampilan": "5 buah cabai hijau, iris serong" },
+      { "nama": "Tomat", "tampilan": "2 buah tomat, belah 8 bagian" },
+      { "nama": "Kecap Manis", "tampilan": "4 sdm Bango Kecap Manis" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "50 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam secukupnya",
+      "Gula pasir secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang merah, bawang putih, dan irisan cabai hijau hingga tercium aroma harum.",
+      "Masukkan daun salam, jahe, dan lengkuas. Tumis sebentar hingga bumbu aromatik layu.",
+      "Masukkan ikan kembung yang sudah digoreng, potongan tomat, Bango Kecap Manis, merica, Royco Kaldu Ayam, dan air. Aduk perlahan agar ikan tidak hancur.",
+      "Masak menggunakan api sedang hingga bumbu meresap sempurna dan kuah sedikit menyusut.",
+      "Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "84.3 g",
+      "energi": "126.3 kkal",
+      "protein": "4.8 g",
+      "lemak": "7.6 g",
+      "karbohidrat": "10.3 g",
+      "serat": "0.5 g",
+      "vitA": "45%",
+      "vitC": "7%",
+      "vitD": "0%",
+      "kalsium": "1%",
+      "zatBesi": "2%",
+      "seng": "1%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "perkedel-jagung-daun-kelor",
+    "name": "Perkedel Jagung Daun Kelor",
+    "image": "../assets/perkedel-jagung-kelor.png",
+    "ingredients": [
+      { "nama": "Jagung Manis", "tampilan": "3 buah jagung manis, pipil" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Daun Kelor", "tampilan": "50 g daun kelor" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris tipis" },
+      { "nama": "Bawang Merah", "tampilan": "2 butir bawang merah, cincang halus" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang halus" },
+      { "nama": "Daun Jeruk", "tampilan": "1 lembar daun jeruk, buang tulangnya, iris tipis" },
+      { "nama": "Penyedap", "tampilan": "1 sachet Royco Kaldu Ayam" },
+      { "nama": "Garam", "tampilan": "½ sdt garam" },
+      { "nama": "Tepung Terigu", "tampilan": "3 sdm tepung terigu" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Ketumbar bubuk (opsional)",
+      "Cabai rawit (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam wadah besar, campurkan jagung manis pipil, daun kelor, daun bawang, bawang merah, bawang putih, dan daun jeruk.",
+      "Masukkan telur, tepung terigu, Royco Kaldu Ayam, dan garam. Aduk hingga semua bahan tercampur rata. Tambahkan sedikit air jika adonan terlalu kental.",
+      "Panaskan minyak di dalam wajan menggunakan api sedang.",
+      "Ambil 1 sendok sayur adonan, lalu masukkan secara perlahan ke dalam minyak panas. Pipihkan sedikit agar matang merata.",
+      "Goreng hingga perkedel berwarna kuning keemasan dan garing. Angkat lalu tiriskan.",
+      "Ulangi proses hingga seluruh adonan habis dan sajikan selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "144.2 g",
+      "energi": "268 kkal",
+      "protein": "5.6 g",
+      "lemak": "18.3 g",
+      "karbohidrat": "23.6 g",
+      "serat": "2.4 g",
+      "vitA": "134%",
+      "vitC": "21%",
+      "vitD": "2%",
+      "kalsium": "4%",
+      "zatBesi": "9%",
+      "seng": "6%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "martabak-mini-ayam-wortel",
+    "name": "Martabak Mini Isi Daging Ayam",
+    "image": "../assets/martabak-mini-ayam.png",
+    "ingredients": [
+      { "nama": "Kulit Lumpia", "tampilan": "12 lembar kulit lumpia siap pakai" },
+      { "nama": "Minyak Goreng", "tampilan": "Minyak secukupnya, untuk menggoreng" },
+      { "nama": "Judul Isi", "tampilan": "[ Bahan Isi ]" },
+      { "nama": "Bawang Bombay", "tampilan": "50 g bawang bombay, cincang" },
+      { "nama": "Wortel", "tampilan": "100 gr wortel, potong dadu kecil" },
+      { "nama": "Daging Ayam", "tampilan": "300g daging ayam cincang" },
+      { "nama": "Penyedap", "tampilan": "3/4 sdt Royco Kaldu Ayam" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, iris" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Tepung Terigu", "tampilan": "1 sdm tepung terigu" },
+      { "nama": "Minyak Tumis", "tampilan": "3 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Saus sambal atau kuah cuko (pelengkap)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan, tumis bawang bombay hingga tercium aroma harum. Tambahkan wortel, lalu aduk hingga rata.",
+      "Masukkan daging ayam cincang, aduk dan masak hingga ayam hampir matang. Angkat dan biarkan hingga suhu ruang.",
+      "Setelah tumisan mendingin, masukkan telur ayam, irisan daun bawang, dan tepung terigu. Aduk hingga seluruh adonan isi tercampur rata.",
+      "Siapkan selembar kulit lumpia, letakkan 1 sdm tumisan daging di bagian tengahnya.",
+      "Lipat kulit lumpia membentuk kotak dan rekatkan bagian pinggirannya menggunakan sedikit air. Ulangi proses ini hingga semua bahan habis.",
+      "Panaskan minyak dalam jumlah yang cukup. Goreng martabak hingga berwarna cokelat keemasan dan garing. Angkat lalu tiriskan.",
+      "Sajikan martabak mini selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "173.5 g",
+      "energi": "384.5 kkal",
+      "protein": "22 g",
+      "lemak": "23 g",
+      "karbohidrat": "23 g",
+      "serat": "1.6 g",
+      "vitA": "100%",
+      "vitC": "5%",
+      "vitD": "2%",
+      "kalsium": "3%",
+      "zatBesi": "13%",
+      "seng": "11%",
+      "iodium": "49%"
+    }
+  },
+  {
+    "id": "ayam-masak-kecap-pakcoy",
+    "name": "Ayam Masak Kecap",
+    "image": "../assets/ayam-masak-kecap.png",
+    "ingredients": [
+      { "nama": "Ayam", "tampilan": "200 g dada ayam filet, iris tipis" },
+      { "nama": "Pakcoy", "tampilan": "100 g pakcoy, potong 3 cm" },
+      { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih, cincang halus" },
+      { "nama": "Bawang Bombay", "tampilan": "¼ bawang bombay, iris" },
+      { "nama": "Daun Bawang", "tampilan": "1 batang daun bawang, potong 3 cm" },
+      { "nama": "Kecap Manis", "tampilan": "40 g Kecap Manis Bango Light" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Air", "tampilan": "50 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam secukupnya",
+      "Nasi putih (pelengkap)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan. Tumis bawang putih cincang hingga harum.",
+      "Masukkan irisan bawang bombay, aduk rata. Masukkan potongan dada ayam, masak hingga berubah warna.",
+      "Tambahkan pakcoy, Kecap Manis Bango Light, Royco Kaldu Ayam, dan air. Aduk hingga rata.",
+      "Lanjutkan memasak hingga ayam matang sempurna dan bumbu meresap.",
+      "Masukkan daun bawang, aduk sebentar hingga rata. Angkat.",
+      "Sajikan segera selagi hangat ditemani dengan nasi putih."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "118 g",
+      "energi": "149.2 kkal",
+      "protein": "12.9 g",
+      "lemak": "7 g",
+      "karbohidrat": "9.2 g",
+      "serat": "0.9 g",
+      "vitA": "47%",
+      "vitC": "20%",
+      "vitD": "0%",
+      "kalsium": "4%",
+      "zatBesi": "5%",
+      "seng": "5%",
+      "iodium": "8%"
+    }
+  },
+  {
+    "id": "sup-bayam-jagung-bening",
+    "name": "Sup Bayam Jagung",
+    "image": "../assets/sup-bayam-jagung.png",
+    "ingredients": [
+      { "nama": "Bayam", "tampilan": "200 g bayam" },
+      { "nama": "Jagung Manis", "tampilan": "120 g jagung manis, potong" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Daun Salam", "tampilan": "2 lembar daun salam" },
+      { "nama": "Gula Pasir", "tampilan": "2 sdt gula pasir" },
+      { "nama": "Penyedap", "tampilan": "1 ½ sdt Royco Kaldu Rasa Jamur" },
+      { "nama": "Air", "tampilan": "1 L air" }
+    ],
+    "spices": [
+      "Garam secukupnya",
+      "Kunci atau Temu Kunci (opsional untuk aroma khas)"
+    ],
+    "steps": [
+      "Didihkan air di dalam panci. Masukkan potongan jagung manis, masak hingga setengah matang.",
+      "Masukkan irisan bawang merah dan daun salam ke dalam panci, lalu didihkan kembali.",
+      "Lanjutkan memasak hingga jagung benar-benar matang.",
+      "Masukkan daun bayam, gula pasir, dan Royco Kaldu Rasa Jamur. Aduk rata.",
+      "Masak selama kurang lebih 2 menit hingga bayam layu namun tetap berwarna hijau segar.",
+      "Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "350 g",
+      "energi": "51.2 kkal",
+      "protein": "3 g",
+      "lemak": "0.6 g",
+      "karbohidrat": "9.7 g",
+      "serat": "1.8 g",
+      "vitA": "83%",
+      "vitC": "38%",
+      "vitD": "0%",
+      "kalsium": "8%",
+      "zatBesi": "11%",
+      "seng": "5%",
+      "iodium": "25%"
+    }
+  },
+  {
+    "id": "kroket-kentang-keju-lumer",
+    "name": "Kroket Kentang Keju",
+    "image": "../assets/kroket-kentang-keju.png",
+    "ingredients": [
+      { "nama": "Kentang", "tampilan": "350 g kentang, kukus, kupas, haluskan" },
+      { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, cincang halus" },
+      { "nama": "Tepung Terigu", "tampilan": "4 sdm tepung terigu" },
+      { "nama": "Susu", "tampilan": "125 ml susu cair" },
+      { "nama": "Penyedap", "tampilan": "1 ½ sdt Royco Kaldu Sapi" },
+      { "nama": "Keju", "tampilan": "75 g keju cheddar, potong dadu" },
+      { "nama": "Telur", "tampilan": "2 butir telur ayam, kocok lepas" },
+      { "nama": "Tepung Panir", "tampilan": "100 g tepung panir" },
+      { "nama": "Margarin", "tampilan": "2 sdm margarin, untuk menumis" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Pala bubuk secukupnya",
+      "Cabai rawit (pelengkap)"
+    ],
+    "steps": [
+      "Panaskan margarin di dalam wajan. Tumis bawang bombay hingga tercium aroma harum. Masukkan tepung terigu, lalu aduk hingga rata.",
+      "Tuangkan susu cair perlahan-lahan, aduk terus hingga adonan licin dan tidak menggumpal.",
+      "Masukkan kentang yang sudah dihaluskan, Royco Kaldu Sapi, merica, dan pala. Aduk rata hingga adonan kalis. Angkat dan dinginkan sejenak.",
+      "Ambil sedikit adonan, pipihkan, lalu isi dengan potongan keju cheddar. Bentuk menjadi lonjong. Ulangi proses ini hingga seluruh adonan habis.",
+      "Celupkan kroket ke dalam kocokan telur, lalu gulingkan ke dalam tepung panir hingga seluruh permukaannya tertutup rata.",
+      "Simpan kroket di dalam kulkas atau freezer selama beberapa saat hingga teksturnya mengeras agar tidak hancur saat digoreng.",
+      "Goreng kroket di dalam minyak panas hingga berwarna cokelat keemasan. Angkat lalu tiriskan.",
+      "Sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 buah",
+      "jumlahPerSajian": "158.8 g",
+      "energi": "364.4 kkal",
+      "protein": "9.2 g",
+      "lemak": "23.6 g",
+      "karbohidrat": "30 g",
+      "serat": "2.5 g",
+      "vitA": "97%",
+      "vitC": "14%",
+      "vitD": "6%",
+      "kalsium": "13%",
+      "zatBesi": "6%",
+      "seng": "9%"
+    }
+  },
+  {
+    "id": "tempe-goreng-bumbu-kuning",
+    "name": "Tempe Goreng Kuning",
+    "image": "../assets/tempe-goreng-kuning.png",
+    "ingredients": [
+      { "nama": "Tempe", "tampilan": "1 papan tempe, iris" },
+      { "nama": "Daun Salam", "tampilan": "1 lembar daun salam" },
+      { "nama": "Serai", "tampilan": "½ batang serai, ambil bagian putihnya, memarkan" },
+      { "nama": "Lengkuas", "tampilan": "2 sdm lengkuas parut" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Ayam" },
+      { "nama": "Gula Merah", "tampilan": "½ sdt gula merah" },
+      { "nama": "Air", "tampilan": "200 ml air" },
+      { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih" },
+      { "nama": "Kunyit Bubuk", "tampilan": "½ sdt kunyit bubuk" },
+      { "nama": "Ketumbar Bubuk", "tampilan": "½ sdt ketumbar bubuk" }
+    ],
+    "spices": [
+      "Garam secukupnya",
+      "Sambal bajak (pelengkap)",
+      "Lalapan segar (pelengkap)"
+    ],
+    "steps": [
+      "Haluskan bawang merah dan bawang putih. Masukkan ke dalam wajan bersama tempe, daun salam, serai, lengkuas parut, Royco Kaldu Ayam, gula merah, kunyit bubuk, ketumbar bubuk, dan air.",
+      "Masak (ungkep) di atas api sedang hingga air menyusut dan bumbu meresap sempurna ke dalam tempe.",
+      "Panaskan minyak di dalam wajan yang berbeda.",
+      "Goreng tempe beserta sisa bumbu ungkepan hingga matang dan berwarna kuning kecokelatan.",
+      "Angkat, tiriskan, dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "115 g",
+      "energi": "158.3 kkal",
+      "protein": "10.4 g",
+      "lemak": "11.5 g",
+      "karbohidrat": "5.7 g",
+      "serat": "0.3 g",
+      "vitA": "36%",
+      "vitC": "1%",
+      "vitD": "0%",
+      "kalsium": "6%",
+      "zatBesi": "8%",
+      "seng": "5%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "orak-arik-telur-sayuran",
+    "name": "Orak-Arik Telur Sayuran",
+    "image": "../assets/orak-arik-telur.png",
+    "ingredients": [
+      { "nama": "Wortel", "tampilan": "250 g buah wortel, belah 2, iris serong" },
+      { "nama": "Buncis", "tampilan": "100 g buncis, iris serong" },
+      { "nama": "Kol", "tampilan": "50 g kol, iris tipis" },
+      { "nama": "Telur", "tampilan": "4 butir telur ayam, kocok lepas" },
+      { "nama": "Bawang Merah", "tampilan": "4 butir bawang merah, iris tipis" },
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, iris tipis" },
+      { "nama": "Cabai Keriting", "tampilan": "1 buah cabai keriting, iris serong" },
+      { "nama": "Penyedap", "tampilan": "1 sdt Royco Kaldu Sapi" },
+      { "nama": "Air", "tampilan": "150 ml air" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk menumis" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Garam dan Gula secukupnya",
+      "Nasi putih (pelengkap)"
+    ],
+    "steps": [
+      "Panaskan minyak di dalam wajan, masukkan telur kocok, lalu masak orak-arik hingga matang. Sisihkan di pinggir wajan.",
+      "Masukkan bawang merah dan bawang putih ke dalam wajan, tumis hingga harum.",
+      "Tambahkan irisan cabai keriting, wortel, dan buncis. Tumis sebentar hingga sayuran mulai layu.",
+      "Masukkan kol, Royco Kaldu Sapi, merica, dan air. Aduk hingga semua bahan tercampur merata.",
+      "Masak hingga air sedikit menyusut dan seluruh sayuran matang sempurna.",
+      "Angkat dan sajikan segera selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "4 sajian",
+      "jumlahPerSajian": "188.1 g",
+      "energi": "155.4 kkal",
+      "protein": "5.8 g",
+      "lemak": "10.5 g",
+      "karbohidrat": "10.6 g",
+      "serat": "2.8 g",
+      "vitA": "147%",
+      "vitC": "21%",
+      "vitD": "7%",
+      "kalsium": "6%",
+      "zatBesi": "5%",
+      "seng": "6%",
+      "iodium": "17%"
+    }
+  },
+  {
+    "id": "pancake-sayuran-mini-keju",
+    "name": "Pancake Sayuran Mini",
+    "image": "../assets/pancake-sayuran.png",
+    "ingredients": [
+      { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, parut" },
+      { "nama": "Bayam", "tampilan": "100 g bayam, iris tipis" },
+      { "nama": "Tepung Terigu", "tampilan": "50 g tepung terigu" },
+      { "nama": "Susu", "tampilan": "100 ml susu" },
+      { "nama": "Telur", "tampilan": "1 butir telur ayam" },
+      { "nama": "Baking Powder", "tampilan": "1 sdt baking powder" },
+      { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
+      { "nama": "Keju", "tampilan": "2 lembar keju cheddar, iris tipis" },
+      { "nama": "Minyak", "tampilan": "2 sdm minyak, untuk memasak" }
+    ],
+    "spices": [
+      "Merica bubuk secukupnya",
+      "Saus tomat atau mayones (pelengkap)"
+    ],
+    "steps": [
+      "Di dalam wadah besar, campurkan tepung terigu, baking powder, telur, dan susu. Aduk hingga rata dan tidak ada gumpalan.",
+      "Masukkan irisan bayam, bawang putih parut, keju cheddar, dan Royco Kaldu Ayam ke dalam adonan. Aduk kembali hingga semua bahan tercampur sempurna.",
+      "Panaskan sedikit minyak di dalam wajan anti lengket dengan api sedang.",
+      "Ambil 1 sendok sayur adonan pancake, tuangkan ke wajan. Masak hingga muncul gelembung di permukaan, lalu balik.",
+      "Masak hingga kedua sisi matang dan berwarna kuning keemasan. Ulangi proses hingga adonan habis.",
+      "Angkat dan sajikan pancake sayuran selagi hangat."
+    ],
+    "nutrition": {
+      "takaranSaji": "6 sajian",
+      "jumlahPerSajian": "62 g",
+      "energi": "111.7 kkal",
+      "protein": "4.4 g",
+      "lemak": "6.8 g",
+      "karbohidrat": "8.8 g",
+      "serat": "2.8 g",
+      "vitA": "147%",
+      "vitC": "21%",
+      "vitD": "7%",
+      "kalsium": "6%",
+      "zatBesi": "5%",
+      "seng": "6%",
+      "iodium": "17%"
+    }
+  }
+]

@@ -1,0 +1,709 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #e3f2fd, #ffffff);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* Logo */
+.logo-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.logo {
+  width: 260px;       /* Dibesarkan */
+  display: block;
+  margin: auto;
+}
+
+/* Tulisan Inspirasi */
+.logo-text {
+  font-size: 20px;
+  color: #2c3e50;
+  margin-top: 10px;
+}
+/* Judul */
+h1 {
+  color: #2c3e50;
+  font-size: 38px;
+  margin-top: 5px;
+}
+
+/* Subtitle */
+.subtitle {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+/* Menu Box */
+.menu {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  width: 300px;
+  margin: auto;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+/* Button */
+.menu button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 15px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Button Masak */
+.menu button:nth-child(1) {
+  background: #4CAF50;
+  color: white;
+}
+
+/* Button Stunting */
+.menu button:nth-child(2) {
+  background: #1b7db9;
+  color: white;
+}
+
+/* Hover */
+.menu button:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+.footer {
+  margin-top: 40px;
+  color: gray;
+  font-size: 14px;
+}
+
+/* ================= HALAMAN MASAK ================= */
+.masak-bg {
+  background-image: url('../assets/sayur.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.bahan-box {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  width: 300px;
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+label {
+  display: block;
+  margin: 10px;
+  font-size: 18px;
+}
+
+/* Tombol kembali */
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background: orange;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* ================= HALAMAN STUNTING ================= */
+.stunting-bg {
+  background-image: url('../assets/bg\ gizi.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Card Target */
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  cursor: pointer;
+}
+
+.card img {
+  width: 90px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Info Box */
+#infoBox {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 20px;
+  display: none;
+}
+
+/* ================= HALAMAN DETAIL GIZI (FIXED & CENTERED) ================= */
+
+/* Layout Grid: Maksimal 3 kolom di desktop & Rata Tengah */
+.detail-grid {
+  display: grid;
+  /* Mengunci lebar kolom agar maksimal 3 per baris di desktop */
+  grid-template-columns: repeat(auto-fit, 320px); 
+  gap: 25px;
+  padding: 20px;
+  max-width: 1100px; /* Membatasi lebar agar tetap 3 kolom di layar lebar */
+  margin: 0 auto;
+  justify-content: center; /* Kunci untuk membuat card rata tengah */
+}
+
+/* Desain Kotak Putih Detail */
+.detail-card {
+  background: white;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: 0.3s;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px; /* Agar tinggi kotak seragam */
+}
+
+.detail-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* Judul Komponen Gizi */
+.card-header {
+  font-size: 22px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 15px;
+  border-bottom: 3px solid #4CAF50;
+  display: block; /* Mengisi lebar kotak */
+  padding-bottom: 10px;
+}
+
+/* Teks keterangan (Kebutuhan Awal, Tambahan & Fungsi) */
+.detail-card p {
+  text-align: left;
+  margin: 6px 0;
+  font-size: 15px;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Kotak Khusus Contoh Pangan Lokal */
+.pangan-lokal {
+  margin-top: auto; /* Mendorong kotak hijau ke posisi paling bawah kartu */
+  background: #f1f8e9;
+  padding: 12px;
+  border-radius: 12px;
+  font-size: 14px;
+  color: #2e7d32;
+  font-style: italic;
+  text-align: left;
+  border-left: 5px solid #4CAF50;
+}
+
+/* Penyesuaian untuk Layar Kecil (HP) */
+@media (max-width: 700px) {
+  .detail-grid {
+    grid-template-columns: 1fr; /* 1 Kolom penuh di HP */
+    max-width: 350px;
+  }
+}
+
+/* ================= WARNA SUBTITLE BARU ================= */
+
+.welcome-section {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+/* Baris Pertama: Hijau Tua Segar */
+.subtitle-highlight {
+  color: #2E7D32; 
+  font-weight: bold;
+  font-size: 19px;
+  margin: 0;
+}
+
+/* Baris Kedua: Abu-abu Kebiruan yang Kalem */
+.subtitle-text {
+  color: #1c5e7e;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+/* ================= TAMPILAN HALAMAN SELAMAT DATANG ================= */
+
+.landing-bg {
+  background: linear-gradient(to bottom, #f0f9ff, #ffffff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.landing-container {
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+.logo-landing {
+  width: 280px; /* Ukuran logo lebih besar sedikit agar dominan */
+  margin-bottom: 20px;
+}
+
+.welcome-text h2 {
+  color: #2c3e50;
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.welcome-text p {
+  color: #546e7a;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+/* Tombol Biru Besar "Lanjut" */
+.btn-lanjut {
+  background-color: #1a6da3; /* Warna biru sesuai gambar */
+  color: white;
+  width: 85%; /* Sedikit lebih kecil dari lebar layar */
+  padding: 16px;
+  border: none;
+  border-radius: 50px; /* Sangat bulat */
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-lanjut:hover {
+  background-color: #155a8a;
+  transform: scale(1.03);
+}
+
+/* ================= HEADER BKKBN ================= */
+.bkkbn-header {
+  background-color: #1a6da3;
+  width: 100%;
+  height: 60px;              /* ⬅️ tinggi sama semua */
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  padding-left: 15px;       
+}
+
+.logo-bkkbn {
+  height: 55px;              
+  display: block;
+}
+
+body {
+  margin-top: 70px;
+}
+.header-text p {
+  color: white !important;
+  margin: 0 !important;
+  font-size: 11px !important;
+  text-align: left !important;
+  line-height: 1.2 !important;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* Biar konten Dapur Sehat tidak tertutup header */
+.landing-bg {
+  padding-top: 80px; 
+}
+
+body {
+  margin-top: 70px;
+}
+
+/* ================= LIST UMUR BALITA ================= */
+.age-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.age-list li {
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px dashed #ddd;
+  padding: 4px 0;
+  color: #555;
+}
+
+.age-list li strong {
+  color: #2e7d32;
+}
+
+/* Container utama - Dibuat lebih ramping */
+.bahan-box {
+  background-color: rgba(103, 137, 161, 0.6); 
+  backdrop-filter: blur(10px);
+  border-radius: 20px; /* Radius sedikit dikecilkan agar lebih tegas */
+  padding: 15px 25px; /* Padding atas-bawah dikecilkan */
+  margin: 10px auto;
+  width: 85%; /* Lebar kotak dikecilkan sedikit */
+  max-width: 950px; /* Batas maksimal lebar dipersempit */
+}
+
+.category-section h3 {
+  color: white;
+  font-size: 18px; /* Ukuran judul dikecilkan */
+  font-weight: bold;
+  margin-bottom: 8px; /* Jarak bawah judul ke isi dirapatkan */
+  margin-top: 10px; /* Jarak antar kategori dirapatkan */
+  text-align: left;
+}
+
+/* Mengatur kolom dan jarak antar item */
+.checkbox-group {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 5px 10px; /* Angka pertama (5px) adalah jarak antar baris (vertikal) */
+  text-align: left;
+  margin-bottom: 15px; /* Jarak antar section dirapatkan */
+}
+
+.checkbox-group label {
+  color: white;
+  font-size: 13px; /* Ukuran tulisan bahan dikecilkan */
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  white-space: nowrap;
+  line-height: 1.2; /* Mengatur tinggi baris agar lebih rapat */
+}
+
+.checkbox-group input[type="checkbox"] {
+  width: 14px; /* Ukuran kotak centang dikecilkan */
+  height: 14px;
+  margin-right: 6px; /* Jarak kotak ke tulisan dirapatkan */
+  cursor: pointer;
+}
+
+/* Responsif untuk layar kecil/HP */
+@media (max-width: 768px) {
+  .bahan-box {
+    width: 95%;
+    padding: 15px;
+  }
+  .checkbox-group {
+    grid-template-columns: repeat(2, 1fr); /* Tetap 2 kolom di HP agar tidak terlalu sesak */
+    gap: 8px;
+  }
+}
+
+#btn-olah {
+    background-color: #007bff; /* Biru sesuai gambar */
+    color: white;
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+#btn-olah:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+/* ================= TOMBOL KEMBALI BULAT BIRU (FIX) ================= */
+.container {
+    position: relative; /* Wajib ada supaya tombol bisa nempel di pojok */
+}
+
+/* Mengunci tombol agar melayang di layar (tidak ikut geser) */
+/* Mengunci tombol agar melayang di layar (tidak ikut geser) */
+.btn-kembali-atas {
+    position: fixed; 
+    top: 75px;        /* Di bawah header biru BKKBN */
+    left: 20px;       /* Jarak dari sisi kiri layar */
+    
+    /* Desain Lonjong */
+    background-color: #f28509df; 
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 50px; 
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    
+    /* Efek agar selalu di lapisan paling depan */
+    z-index: 9999; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+
+.btn-kembali-atas:hover {
+    background-color: #155a8a;
+    transform: scale(1.05);
+}
+
+/* Perbaikan tombol Olah Bahan agar seragam dengan tombol menu utama */
+#btn-olah {
+    background-color: #4CAF50; /* Hijau Masak */
+    color: white;
+    padding: 12px 40px;
+    border: none;
+    border-radius: 50px; /* Lonjong pill-shaped */
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-top: 20px;
+}
+
+#btn-olah:hover {
+    transform: scale(1.05);
+}
+
+/* Memastikan halaman tidak melompat-lompat */
+html {
+    scroll-behavior: smooth;
+}
+/* --- Tampilan Halaman Hasil Resep --- */
+.container-hasil {
+  padding: 80px 20px 40px;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.judul-hasil {
+  color: #1a6da3;
+  font-size: 22px;
+  margin: 20px 0 40px;
+  line-height: 1.4;
+}
+
+/* Tombol Back Lingkaran Biru */
+.btn-back-circle {
+  background: #1a6da3;
+  color: white;
+  border: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  float: left;
+}
+
+/* Grid Card */
+.resep-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+/* Card Biru Eksklusif */
+.card-resep-biru {
+  background: #1a6da3;
+  border-radius: 25px;
+  overflow: hidden;
+  box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+  color: white;
+}
+
+.img-resep {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-bottom: 5px solid #ffffff;
+}
+
+.card-isi {
+  padding: 20px;
+}
+
+.card-isi h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  min-height: 50px;
+}
+
+.btn-lihat-resep {
+  background: #cbdceb;
+  color: #1a6da3;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Tombol Masukan Ulang */
+.btn-ulang-bahan {
+  background: #1a6da3;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* ================= HALAMAN DETAIL RESEP (FULL) ================= */
+.card-detail {
+    background: white;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left; /* Rata kiri untuk teks instruksi */
+}
+
+.img-detail-full {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-bottom: 8px solid #1a6da3;
+}
+
+.content-detail {
+    padding: 30px;
+}
+
+.content-detail h1 {
+    color: #1a6da3;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+/* Grid Gizi agar rapi */
+.info-gizi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    background: #f0f7ff;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.gizi-item {
+    font-size: 14px;
+    color: #333;
+}
+
+.gizi-item strong {
+    color: #1a6da3;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.list-bahan, .list-langkah {
+    padding-left: 20px;
+    line-height: 1.8;
+    color: #444;
+}
+
+.list-bahan li, .list-langkah li {
+    margin-bottom: 10px;
+}
+
+/* Tombol Ulang Bahan di halaman detail */
+.btn-ulang-bahan {
+    background: #1a6da3;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.btn-ulang-bahan:hover {
+    background: #155a8a;
+    transform: scale(1.05);
+}
+
+.nutrition-table {
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+    padding: 10px 0;
+    margin-bottom: 15px;
+}
+.nutri-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
+.vitamin-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.vit-item {
+    background: #f9f9f9;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #eee;
+}
+.vit-item span {
+    display: block;
+    font-weight: bold;
+    color: #1a6da3;
+}

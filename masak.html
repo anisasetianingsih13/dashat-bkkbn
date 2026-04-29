@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Masak</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="masak-bg">
+
+<div class="bkkbn-header">
+  <div class="header-content">
+    <img src="assets/logo bkkbn.png" class="logo-bkkbn">
+  </div>
+</div>
+
+<button onclick="history.back()" class="btn-kembali-atas">
+  ⬅ Kembali
+</button>
+
+<div class="container">
+  <h2>Yuk pilih bahan yang kamu punya dan buat menu sehat hari ini!</h2>
+</div>
+
+<div class="bahan-box">
+  <div id="ingredients">
+    <div class="ingredient-container">
+
+      <div class="category-section">
+        <h3>Bahan Utama:</h3>
+        <div class="checkbox-group">
+          <label><input type="checkbox" class="ingredient-cb" value="bayam"> Bayam</label>
+          <label><input type="checkbox" class="ingredient-cb" value="seledri"> Seledri</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kentang"> Kentang</label>
+          <label><input type="checkbox" class="ingredient-cb" value="terong"> Terong</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kacang panjang"> Kacang Panjang</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kangkung"> Kangkung</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daun bawang"> Daun Bawang</label>
+          <label><input type="checkbox" class="ingredient-cb" value="ubi"> Ubi</label>
+          <label><input type="checkbox" class="ingredient-cb" value="tomat"> Tomat</label>
+          <label><input type="checkbox" class="ingredient-cb" value="wortel"> Wortel</label>
+          <label><input type="checkbox" class="ingredient-cb" value="sawi"> Sawi</label>
+          <label><input type="checkbox" class="ingredient-cb" value="buncis"> Buncis</label>
+          <label><input type="checkbox" class="ingredient-cb" value="singkong"> Singkong</label>
+          <label><input type="checkbox" class="ingredient-cb" value="labu siam"> Labu Siam</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daun singkong"> Daun Singkong</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kol"> Kol</label>
+          <label><input type="checkbox" class="ingredient-cb" value="brokoli"> Brokoli</label>
+          <label><input type="checkbox" class="ingredient-cb" value="talas"> Talas</label>
+          <label><input type="checkbox" class="ingredient-cb" value="paprika"> Paprika</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daun kelor"> Daun Kelor</label>
+          <label><input type="checkbox" class="ingredient-cb" value="telur"> Telur</label>
+          <label><input type="checkbox" class="ingredient-cb" value="ayam"> Ayam</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daging sapi"> Daging Sapi</label>
+          <label><input type="checkbox" class="ingredient-cb" value="ikan kembung"> Ikan Kembung</label>
+          <label><input type="checkbox" class="ingredient-cb" value="tahu"> Tahu</label>
+          <label><input type="checkbox" class="ingredient-cb" value="tempe"> Tempe</label>
+          <label><input type="checkbox" class="ingredient-cb" value="jamur tiram"> Jamur Tiram</label>
+          <label><input type="checkbox" class="ingredient-cb" value="jagung manis"> Jagung Manis</label>
+          <label><input type="checkbox" class="ingredient-cb" value="pakcoy"> Pakcoy</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kulit lumpia"> Kulit Lumpia</label>
+          <label><input type="checkbox" class="ingredient-cb" value="tepung terigu"> Tepung Terigu</label>
+        </div>
+      </div>
+
+      <div class="category-section">
+        <h3>Perbumbuan:</h3>
+        <div class="checkbox-group">
+          <label><input type="checkbox" class="ingredient-cb" value="cabai kecil"> Cabai Kecil</label>
+          <label><input type="checkbox" class="ingredient-cb" value="bawang merah"> Bawang Merah</label>
+          <label><input type="checkbox" class="ingredient-cb" value="penyedap"> Penyedap</label>
+          <label><input type="checkbox" class="ingredient-cb" value="garam"> Garam</label>
+          <label><input type="checkbox" class="ingredient-cb" value="cabai kecil merah"> Cabai Merah</label>
+          <label><input type="checkbox" class="ingredient-cb" value="bawang putih"> Bawang Putih</label>
+          <label><input type="checkbox" class="input-cb" value="gula merah"> Gula Merah</label>
+          <label><input type="checkbox" class="ingredient-cb" value="gula putih"> Gula Putih</label>
+          <label><input type="checkbox" class="ingredient-cb" value="cabai hijau"> Cabai Hijau</label>
+          <label><input type="checkbox" class="ingredient-cb" value="bawang bombay"> Bawang Bombay</label>          <label><input type="checkbox" class="ingredient-cb" value="kecap manis"> Kecap Manis</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daun salam"> Daun Salam</label>
+          <label><input type="checkbox" class="ingredient-cb" value="jahe"> Jahe</label>
+          <label><input type="checkbox" class="ingredient-cb" value="lengkuas"> Lengkuas</label>
+          <label><input type="checkbox" class="ingredient-cb" value="serai"> Serai</label>
+          <label><input type="checkbox" class="ingredient-cb" value="daun jeruk"> Daun Jeruk</label>
+          <label><input type="checkbox" class="ingredient-cb" value="kunyit"> Kunyit</label>
+          <label><input type="checkbox" class="ingredient-cb" value="ketumbar"> Ketumbar</label>
+          <label><input type="checkbox" class="ingredient-cb" value="pala"> Pala</label>
+          <label><input type="checkbox" class="ingredient-cb" value="merica"> Merica</label>
+          <label><input type="checkbox" class="ingredient-cb" value="santan"> Santan</label>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div style="margin-top: 30px; text-align: center;">
+  <button id="btn-olah" class="btn" style="display: none;" onclick="olahBahan()">
+    Olah Bahan
+  </button>
+</div>
+
+<div id="results" style="margin: 20px;"></div>
+
+<script src="js/masak.js"></script>
+
+</body>
+</html>

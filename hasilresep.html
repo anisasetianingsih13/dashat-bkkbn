@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hasil Rekomendasi Resep</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="masak-bg">
+
+<div class="bkkbn-header">
+    <div class="header-content">
+        <img src="assets/logo bkkbn.png" class="logo-bkkbn">
+    </div>
+</div>
+
+<div class="container-hasil">
+    <button onclick="window.location.href='masak.html'" class="btn-back-circle">←</button>
+    
+    <h2 class="judul-hasil">
+        Ini adalah menu masakan yang bisa kamu buat dari bahan masakan yang kamu miliki!
+    </h2>
+
+    <div id="resep-grid" class="resep-grid"></div>
+
+    <div style="margin-top: 40px;">
+        <button onclick="window.location.href='masak.html'" class="btn-ulang-bahan">
+            🔄 Masukan Ulang Bahan
+        </button>
+    </div>
+</div>
+
+<script src="js/hasil.js"></script>
+
+</body>
+</html>
