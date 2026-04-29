@@ -1,0 +1,8 @@
+{
+  "name": "Dapur Sehat",
+  "short_name": "Dapur",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50"
+}
