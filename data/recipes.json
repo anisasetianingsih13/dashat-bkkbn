@@ -2,7 +2,7 @@
   {
     "id": "telur-dadar-bayam",
     "name": "Telur Dadar Bayam",
-    "image": "../assets/telur_bayam.png",
+    "image": "assets/telur_bayam.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "3 butir telur ayam" },
       { "nama": "Bayam", "tampilan": "30 g daun bayam, iris tipis" },
@@ -38,7 +38,7 @@
   {
     "id": "sup-kelor-jagung",
     "name": "Sup Kelor Jagung",
-    "image": "../assets/sup_kelor.png",
+    "image": "assets/sup_kelor.png",
     "ingredients": [
       { "nama": "Daun Kelor", "tampilan": "100 g daun kelor, petik daunnya" },
       { "nama": "Jagung", "tampilan": "1 buah jagung manis, pipil" },
@@ -2316,7 +2316,7 @@
   {
     "id": "arem-arem-mie-daging",
     "name": "Arem-Arem Isi Mie Daging",
-    "image": "../assets/arem-arem-mie.png",
+    "image": "assets/arem-arem-mie.png",
     "ingredients": [
       { "nama": "Mie Telur", "tampilan": "150 gr mi telur kering, rebus, tiriskan" },
       { "nama": "Telur", "tampilan": "2 butir telur ayam, kocok lepas" },
