@@ -74,7 +74,7 @@
   {
     "id": "kroket-cakalang",
     "name": "Kroket Cakalang",
-    "image": "../assets/kroket.png",
+    "image": "assets/kroket.png",
     "ingredients": [
       { "nama": "Ikan Cakalang", "tampilan": "250 g ikan cakalang kukus, suwir" },
       { "nama": "Kentang", "tampilan": "500 g kentang goreng, hancurkan" },
@@ -119,7 +119,7 @@
   {
     "id": "telur-balado",
     "name": "Telur Balado",
-    "image": "../assets/telor.png",
+    "image": "assets/telor.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "4 butir telur ayam, rebus, kupas, goreng hingga berkulit" },
       { "nama": "Cabai Merah", "tampilan": "75 g cabai merah keriting" },
@@ -158,7 +158,7 @@
  {
     "id": "sop-oyong-misoa",
     "name": "Sop Oyong Misoa",
-    "image": "../assets/sup_oyong.png",
+    "image": "assets/sup_oyong.png",
     "ingredients": [
       { "nama": "Oyong", "tampilan": "500 g oyong, kupas, iris tebal" },
       { "nama": "Tahu", "tampilan": "1 kotak tahu putih, potong dadu" },
@@ -197,7 +197,7 @@
   {
     "id": "cireng-sayuran",
     "name": "Cireng Sayuran",
-    "image": "../assets/cireng.png",
+    "image": "assets/cireng.png",
     "ingredients": [
       { "nama": "Adonan biang", "tampilan": "Adonan biang (slurry):" },
       { "nama": "Air", "tampilan": " 250 ml air" },
@@ -253,7 +253,7 @@
   {
     "id": "semur-bola-ayam",
     "name": "Semur Bola Bola Ayam",
-    "image": "../assets/semur_bola.png",
+    "image": "assets/semur_bola.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "200 g daging ayam giling, bentuk bola-bola kecil, tumis hingga kecokelatan" },
       { "nama": "Kentang", "tampilan": " 2 buah kentang, belah 6 bagian" },
@@ -296,7 +296,7 @@
   {
     "id": "tumis-pakcoy-jagung",
     "name": "Tumis Pakcoy Jagung Manis",
-    "image": "../assets/tumis_pakcoy.png",
+    "image": "assets/tumis_pakcoy.png",
     "ingredients": [
       { "nama": "Pakcoy", "tampilan": "200 g pakcoy, potong 3 cm" },
       { "nama": "Jagung", "tampilan": "100 g jagung manis pipilan" },
@@ -339,7 +339,7 @@
   {
     "id": "korean-one-pan-toast",
     "name": "Korean One Pan Toast",
-    "image": "../assets/korean_one.png",
+    "image": "assets/korean_one.png",
     "ingredients": [
       { "nama": "Roti", "tampilan": " 2 lembar roti tawar polos/gandum, belah 2 memanjang" },
       { "nama": "Telur", "tampilan": " 3 butir telur ayam" },
@@ -383,7 +383,7 @@
   {
     "id": "ikan-masak-kuning",
     "name": "Ikan Masak Kuning",
-    "image": "../assets/ikan-kuning.png",
+    "image": "assets/ikan-kuning.png",
     "ingredients": [
       { "nama": "Ikan", "tampilan": "2 Ekor Ikan Bandeng (atau sesuai selera)" },
       { "nama": "Jeruk Nipis", "tampilan": "1 buah jeruk nipis" },
@@ -432,7 +432,7 @@
   {
     "id": "tumis-buncis-kecap",
     "name": "Tumis Buncis Kecap",
-    "image": "../assets/tumis-buncis.png",
+    "image": "assets/tumis-buncis.png",
     "ingredients": [
       { "nama": "Buncis", "tampilan": "350g buncis, potong 3 cm" },
       { "nama": "Tomat", "tampilan": "1 buah tomat, iris tebal" },
@@ -478,7 +478,7 @@
   {
     "id": "bola-makaroni-goreng",
     "name": "Bola Makaroni Goreng",
-    "image": "../assets/bola-makaroni.png",
+    "image": "assets/bola-makaroni.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "50 g daging ayam giling" },
       { "nama": "Bawang Bombay", "tampilan": "½ bawang bombay, cincang halus" },
@@ -527,7 +527,7 @@
   {
     "id": "omelet-sayuran",
     "name": "Omelet Sayuran",
-    "image": "../assets/omelet-sayuran.png",
+    "image": "assets/omelet-sayuran.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "4 butir telur ayam" },
       { "nama": "Bayam", "tampilan": "1 ikat bayam, siangi" },
@@ -568,7 +568,7 @@
   {
     "id": "oseng-tempe-kacang-panjang",
     "name": "Oseng Tempe & Kacang Panjang",
-    "image": "../assets/oseng-tempe.png",
+    "image": "assets/oseng-tempe.png",
     "ingredients": [
       { "nama": "Tempe", "tampilan": "150g tempe, potong korek api, goreng setengah matang" },
       { "nama": "Kacang Panjang", "tampilan": "200 g kacang panjang, potong 3 cm" },
@@ -615,7 +615,7 @@
   {
     "id": "roti-bakar-keju-mayo",
     "name": "Roti Bakar Keju Mayo",
-    "image": "../assets/roti-bakar.png",
+    "image": "assets/roti-bakar.png",
     "ingredients": [
       { "nama": "Roti", "tampilan": "2 lembar roti tawar" },
       { "nama": "Jagung", "tampilan": "100 g jagung manis pipil" },
@@ -656,7 +656,7 @@
   {
     "id": "nugget-tempe",
     "name": "Nugget Tempe",
-    "image": "../assets/nugget-tempe.png",
+    "image": "assets/nugget-tempe.png",
     "ingredients": [
       { "nama": "Tempe", "tampilan": "200 g tempe, kukus" },
       { "nama": "Wortel", "tampilan": "1 buah wortel, kupas, potong dadu kecil" },
@@ -702,7 +702,7 @@
   {
     "id": "sup-ayam-makaroni",
     "name": "Sup Ayam Makaroni",
-    "image": "../assets/sup-ayam-makaroni.png",
+    "image": "assets/sup-ayam-makaroni.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "300g ayam tanpa kulit, potong-potong" },
       { "nama": "Kentang", "tampilan": "150g kentang, kupas, potong dadu" },
@@ -750,7 +750,7 @@
   {
     "id": "kolak-ubi-ungu",
     "name": "Kolak Ubi Ungu",
-    "image": "../assets/kolak-ubi-ungu.png",
+    "image": "assets/kolak-ubi-ungu.png",
     "ingredients": [
       { "nama": "Ubi Ungu", "tampilan": "200 g ubi ungu, kupas, potong dadu 3 cm, kukus setengah matang" },
       { "nama": "Gula Merah", "tampilan": "100 g gula merah, sisir" },
@@ -792,7 +792,7 @@
   {
     "id": "telur-dadar-tomat",
     "name": "Telur Dadar Tomat",
-    "image": "../assets/telur-dadar-tomat.png",
+    "image": "assets/telur-dadar-tomat.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "3 butir telur ayam" },
       { "nama": "Penyedap", "tampilan": "½ sdt Royco Kaldu Ayam" },
