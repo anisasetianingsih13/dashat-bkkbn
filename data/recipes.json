@@ -832,7 +832,7 @@
   {
     "id": "tumis-bayam-tahu-jagung",
     "name": "Tumis Bayam Tahu Jagung",
-    "image": "../assets/tumis-bayam-tahu.png",
+    "image": "assets/tumis-bayam-tahu.png",
     "ingredients": [
       { "nama": "Bayam", "tampilan": "200 g bayam" },
       { "nama": "Jagung", "tampilan": "100 g jagung pipilan" },
@@ -874,7 +874,7 @@
   {
     "id": "makaroni-skotel-kukus",
     "name": "Makaroni Skotel Kukus",
-    "image": "../assets/makaroni-skotel.png",
+    "image": "assets/makaroni-skotel.png",
     "ingredients": [
       { "nama": "Makaroni", "tampilan": "100 g makaroni, rebus, tiriskan" },
       { "nama": "Sayuran", "tampilan": "100 g mix vegetables (atau sayuran favorit)" },
@@ -919,7 +919,7 @@
   {
     "id": "tahu-isi-sayuran-pedas",
     "name": "Tahu Isi Sayuran Pedas",
-    "image": "../assets/tahu-isi-pedas.png",
+    "image": "assets/tahu-isi-pedas.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "6 buah tahu putih, potong dua melintang, kerat sisinya" },
       { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
@@ -973,7 +973,7 @@
   {
     "id": "tumis-bayam-jamur",
     "name": "Tumis Bayam Jamur",
-    "image": "../assets/tumis-bayam-jamur.png",
+    "image": "assets/tumis-bayam-jamur.png",
     "ingredients": [
       { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang" },
       { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, cincang" },
@@ -1018,7 +1018,7 @@
   {
     "id": "perkedel-ayam",
     "name": "Perkedel Ayam",
-    "image": "../assets/perkedel-ayam.png",
+    "image": "assets/perkedel-ayam.png",
     "ingredients": [
       { "nama": "Kentang", "tampilan": "300 gr kentang, tumbuk halus" },
       { "nama": "Ayam", "tampilan": "100 gr ayam cincang" },
@@ -1065,7 +1065,7 @@
   {
     "id": "mendoan-pedas",
     "name": "Mendoan Pedas",
-    "image": "../assets/mendoan-pedas.png",
+    "image": "assets/mendoan-pedas.png",
     "ingredients": [
       { "nama": "Tempe", "tampilan": "1 papan (400 g) tempe, iris" },
       { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
@@ -1110,7 +1110,7 @@
   {
     "id": "pesmol-ikan-kembung",
     "name": "Pesmol Ikan Kembung",
-    "image": "../assets/pesmol-ikan.png",
+    "image": "assets/pesmol-ikan.png",
     "ingredients": [
       { "nama": "Ikan Kembung", "tampilan": "500 gr ikan kembung" },
       { "nama": "Tomat", "tampilan": "1 buah tomat" },
@@ -1163,7 +1163,7 @@
   {
     "id": "tumis-buncis-jamur-ebi",
     "name": "Tumis Buncis Jamur",
-    "image": "../assets/tumis-buncis-jamur.png",
+    "image": "assets/tumis-buncis-jamur.png",
     "ingredients": [
       { "nama": "Buncis", "tampilan": "250 gr buncis" },
       { "nama": "Ebi", "tampilan": "2 sdm ebi, rendam air hangat" },
@@ -1208,7 +1208,7 @@
   {
     "id": "pempek-kapal-selam",
     "name": "Pempek",
-    "image": "../assets/pempek.png",
+    "image": "assets/pempek.png",
     "ingredients": [
       { "nama": "Judul Adonan", "tampilan": "Bahan adonan pempek:" },
       { "nama": "Tepung Beras", "tampilan": "300gr tepung beras" },
@@ -1268,7 +1268,7 @@
   {
     "id": "kailan-cah-bawang-putih",
     "name": "Kailan Cah Bawang Putih",
-    "image": "../assets/kailan-cah.png",
+    "image": "assets/kailan-cah.png",
     "ingredients": [
       { "nama": "Kailan", "tampilan": "300 g kailan, blansir (dapat diganti sawi hijau)" },
       { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, cincang kasar" },
@@ -1311,7 +1311,7 @@
   {
     "id": "tahu-pletok",
     "name": "Tahu Pletok",
-    "image": "../assets/tahu-pletok.png",
+    "image": "assets/tahu-pletok.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "10 buah tahu putih, goreng" },
       { "nama": "Minyak", "tampilan": "Minyak goreng" },
@@ -1356,7 +1356,7 @@
   {
     "id": "nugget-tahu-wortel",
     "name": "Nugget Tahu Wortel",
-    "image": "../assets/nugget-tahu.png",
+    "image": "assets/nugget-tahu.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "300 g tahu, haluskan dengan garpu" },
       { "nama": "Penyedap", "tampilan": "1 bungkus Royco Kaldu Ayam" },
@@ -1404,7 +1404,7 @@
   {
     "id": "sup-ayam-daun-kelor",
     "name": "Sup Ayam Daun Kelor",
-    "image": "../assets/sup-ayam-kelor.png",
+    "image": "assets/sup-ayam-kelor.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "300 g ayam tanpa kulit, potong-potong" },
       { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
@@ -1453,7 +1453,7 @@
   {
     "id": "bola-bola-ubi",
     "name": "Bola-Bola Ubi",
-    "image": "../assets/bola-ubi.png",
+    "image": "assets/bola-ubi.png",
     "ingredients": [
       { "nama": "Ubi Jalar", "tampilan": "350 g ubi jalar merah, kukus hingga matang, kupas, haluskan" },
       { "nama": "Gula Halus", "tampilan": "80 g gula halus" },
@@ -1496,7 +1496,7 @@
   {
     "id": "nugget-ayam-sayuran",
     "name": "Nugget Ayam Sayuran",
-    "image": "../assets/nugget-ayam-sayur.png",
+    "image": "assets/nugget-ayam-sayur.png",
     "ingredients": [
       { "nama": "Minyak", "tampilan": "200 ml minyak, untuk menggoreng" },
       { "nama": "Judul Nugget", "tampilan": "[ Bahan Nugget ]" },
@@ -1547,7 +1547,7 @@
   {
     "id": "sup-sayur-makaroni",
     "name": "Sup Sayur Makaroni",
-    "image": "../assets/sup-sayur-makaroni.png",
+    "image": "assets/sup-sayur-makaroni.png",
     "ingredients": [
       { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
       { "nama": "Wortel", "tampilan": "150 g wortel, kupas, potong dadu" },
@@ -1597,7 +1597,7 @@
   {
     "id": "lumpia-goreng-bengkuang",
     "name": "Lumpia Goreng",
-    "image": "../assets/lumpia-goreng.png",
+    "image": "assets/lumpia-goreng.png",
     "ingredients": [
       { "nama": "Kulit Lumpia", "tampilan": "10 lembar kulit lumpia siap pakai" },
       { "nama": "Minyak Goreng", "tampilan": "Minyak untuk menggoreng" },
@@ -1654,7 +1654,7 @@
   {
     "id": "telur-ceplok-kuah-kecap",
     "name": "Telur Ceplok Kuah Kecap",
-    "image": "../assets/telur-ceplok-kecap.png",
+    "image": "assets/telur-ceplok-kecap.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "4 butir telur ayam, masak telur mata sapi" },
       { "nama": "Minyak", "tampilan": "1 sdm minyak, untuk menumis" },
@@ -1700,7 +1700,7 @@
   {
     "id": "sup-bayam-bakso",
     "name": "Sup Bayam Bakso",
-    "image": "../assets/sup-bayam-bakso.png",
+    "image": "assets/sup-bayam-bakso.png",
     "ingredients": [
       { "nama": "Bayam", "tampilan": "200 g daun bayam" },
       { "nama": "Bakso", "tampilan": "10 butir bakso sapi" },
@@ -1745,7 +1745,7 @@
   {
     "id": "pizza-tahu-sehat",
     "name": "Pizza Tahu",
-    "image": "../assets/pizza-tahu.png",
+    "image": "assets/pizza-tahu.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "100 g tahu sutera, potong dadu" },
       { "nama": "Bawang Bombay", "tampilan": "30 g bawang bombay, iris memanjang" },
@@ -1791,7 +1791,7 @@
   {
     "id": "bakwan-tahu-sayur",
     "name": "Bakwan Tahu",
-    "image": "../assets/bakwan-tahu.png",
+    "image": "assets/bakwan-tahu.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "250 g tahu putih, haluskan" },
       { "nama": "Telur", "tampilan": "1 butir telur ayam" },
@@ -1835,7 +1835,7 @@
   {
     "id": "tumis-taoge-ikan-asin",
     "name": "Tumis Taoge Ikan Asin",
-    "image": "../assets/tumis-taoge.png",
+    "image": "assets/tumis-taoge.png",
     "ingredients": [
       { "nama": "Ikan Asin", "tampilan": "10 g ikan asin jambal yang sudah digoreng" },
       { "nama": "Tahu", "tampilan": "1 buah tahu, potong dadu kecil, goreng hingga kecoklatan" },
@@ -1879,7 +1879,7 @@
   {
     "id": "risol-sayuran-panir",
     "name": "Risol Sayuran",
-    "image": "../assets/risol-sayuran.png",
+    "image": "assets/risol-sayuran.png",
     "ingredients": [
       { "nama": "Kulit Risol", "tampilan": "8 lembar kulit risol siap pakai" },
       { "nama": "Minyak Goreng", "tampilan": "Minyak untuk menggoreng" },
@@ -1930,7 +1930,7 @@
   {
     "id": "sup-ayam-pakcoy-sehat",
     "name": "Sup Ayam Pakcoy",
-    "image": "../assets/sup-ayam-pakcoy.png",
+    "image": "assets/sup-ayam-pakcoy.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "200 g ayam tanpa kulit, potong-potong" },
       { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
@@ -1980,7 +1980,7 @@
   {
     "id": "tempura-sayur-asam-manis",
     "name": "Tempura Sayur Saus Asam Manis",
-    "image": "../assets/tempura-sayur.png",
+    "image": "assets/tempura-sayur.png",
     "ingredients": [
       { "nama": "Kol", "tampilan": "250 g kol, iris tipis" },
       { "nama": "Wortel", "tampilan": "100 g wortel, potong korek api" },
@@ -2028,7 +2028,7 @@
   {
     "id": "bakso-goreng-wortel",
     "name": "Bakso Goreng Wortel",
-    "image": "../assets/bakso-goreng-wortel.png",
+    "image": "assets/bakso-goreng-wortel.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "200 g daging ayam giling" },
       { "nama": "Wortel", "tampilan": "50 g wortel parut" },
@@ -2076,7 +2076,7 @@
   {
     "id": "stik-ikan-krenyes",
     "name": "Stik Ikan Krenyes",
-    "image": "../assets/stik-ikan-krenyes.png",
+    "image": "assets/stik-ikan-krenyes.png",
     "ingredients": [
       { "nama": "Ikan", "tampilan": "200 g filet ikan kakap putih atau gurami, potong persegi panjang" },
       { "nama": "Bawang Putih", "tampilan": "1 siung bawang putih, parut" },
@@ -2130,7 +2130,7 @@
   {
     "id": "oseng-sawi-telur",
     "name": "Oseng Sawi Telur",
-    "image": "../assets/oseng-sawi-telur.png",
+    "image": "assets/oseng-sawi-telur.png",
     "ingredients": [
       { "nama": "Sawi Hijau", "tampilan": "250 g pakcoy atau sawi hijau, potong 3 cm" },
       { "nama": "Telur", "tampilan": "3 butir telur ayam, kocok lepas" },
@@ -2173,7 +2173,7 @@
   {
     "id": "bakwan-sayur-krispi",
     "name": "Bakwan Sayur",
-    "image": "../assets/bakwan-sayur.png",
+    "image": "assets/bakwan-sayur.png",
     "ingredients": [
       { "nama": "Kol", "tampilan": "150 g kol, iris memanjang" },
       { "nama": "Tepung Terigu", "tampilan": "150 g tepung terigu" },
@@ -2222,7 +2222,7 @@
   {
     "id": "sup-ayam-bening-klasik",
     "name": "Sup Ayam Bening",
-    "image": "../assets/sup-ayam-bening.png",
+    "image": "assets/sup-ayam-bening.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "250 g ayam tanpa kulit, potong-potong" },
       { "nama": "Kentang", "tampilan": "150 g kentang, kupas, potong dadu" },
@@ -2271,7 +2271,7 @@
   {
     "id": "bola-tahu-bayam-goreng",
     "name": "Bola Tahu Bayam",
-    "image": "../assets/bola-tahu-bayam.png",
+    "image": "assets/bola-tahu-bayam.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "300 g tahu, haluskan dengan garpu" },
       { "nama": "Bayam", "tampilan": "100 g daun bayam, iris tipis" },
@@ -2369,7 +2369,7 @@
   {
     "id": "semur-telur-tahu-sehat",
     "name": "Semur Telur",
-    "image": "../assets/semur-telur.png",
+    "image": "assets/semur-telur.png",
     "ingredients": [
       { "nama": "Tahu", "tampilan": "2 kotak tahu putih, potong" },
       { "nama": "Telur", "tampilan": "4 buah telur, rebus, kupas" },
@@ -2416,7 +2416,7 @@
   {
     "id": "bakwan-jamur-tiram-ayam",
     "name": "Bakwan Jamur Tiram",
-    "image": "../assets/bakwan-jamur-tiram.png",
+    "image": "assets/bakwan-jamur-tiram.png",
     "ingredients": [
       { "nama": "Jamur Tiram", "tampilan": "250 g jamur tiram, suwir" },
       { "nama": "Ayam", "tampilan": "50 g daging ayam giling" },
@@ -2463,7 +2463,7 @@
   {
     "id": "pizza-mie-ayam-keju",
     "name": "Pizza Mie",
-    "image": "../assets/pizza-mie.png",
+    "image": "assets/pizza-mie.png",
     "ingredients": [
       { "nama": "Mie Telur", "tampilan": "100 g mi telur, rebus, tiriskan" },
       { "nama": "Telur", "tampilan": "3 butir telur ayam" },
@@ -2506,7 +2506,7 @@
   {
     "id": "kembung-goreng-cabai-hijau",
     "name": "Kembung Goreng Cabai Hijau",
-    "image": "../assets/kembung-cabai-hijau.png",
+    "image": "assets/kembung-cabai-hijau.png",
     "ingredients": [
       { "nama": "Ikan Kembung", "tampilan": "400 g ikan kembung, bersihkan, potong 2 bagian, goreng" },
       { "nama": "Bawang Merah", "tampilan": "5 butir bawang merah, iris tipis" },
@@ -2553,7 +2553,7 @@
   {
     "id": "perkedel-jagung-daun-kelor",
     "name": "Perkedel Jagung Daun Kelor",
-    "image": "../assets/perkedel-jagung-kelor.png",
+    "image": "assets/perkedel-jagung-kelor.png",
     "ingredients": [
       { "nama": "Jagung Manis", "tampilan": "3 buah jagung manis, pipil" },
       { "nama": "Telur", "tampilan": "1 butir telur ayam" },
@@ -2600,7 +2600,7 @@
   {
     "id": "martabak-mini-ayam-wortel",
     "name": "Martabak Mini Isi Daging Ayam",
-    "image": "../assets/martabak-mini-ayam.png",
+    "image": "assets/martabak-mini-ayam.png",
     "ingredients": [
       { "nama": "Kulit Lumpia", "tampilan": "12 lembar kulit lumpia siap pakai" },
       { "nama": "Minyak Goreng", "tampilan": "Minyak secukupnya, untuk menggoreng" },
@@ -2648,7 +2648,7 @@
   {
     "id": "ayam-masak-kecap-pakcoy",
     "name": "Ayam Masak Kecap",
-    "image": "../assets/ayam-masak-kecap.png",
+    "image": "assets/ayam-masak-kecap.png",
     "ingredients": [
       { "nama": "Ayam", "tampilan": "200 g dada ayam filet, iris tipis" },
       { "nama": "Pakcoy", "tampilan": "100 g pakcoy, potong 3 cm" },
@@ -2693,7 +2693,7 @@
   {
     "id": "sup-bayam-jagung-bening",
     "name": "Sup Bayam Jagung",
-    "image": "../assets/sup-bayam-jagung.png",
+    "image": "assets/sup-bayam-jagung.png",
     "ingredients": [
       { "nama": "Bayam", "tampilan": "200 g bayam" },
       { "nama": "Jagung Manis", "tampilan": "120 g jagung manis, potong" },
@@ -2735,7 +2735,7 @@
   {
     "id": "kroket-kentang-keju-lumer",
     "name": "Kroket Kentang Keju",
-    "image": "../assets/kroket-kentang-keju.png",
+    "image": "assets/kroket-kentang-keju.png",
     "ingredients": [
       { "nama": "Kentang", "tampilan": "350 g kentang, kukus, kupas, haluskan" },
       { "nama": "Bawang Bombay", "tampilan": "½ buah bawang bombay, cincang halus" },
@@ -2782,7 +2782,7 @@
   {
     "id": "tempe-goreng-bumbu-kuning",
     "name": "Tempe Goreng Kuning",
-    "image": "../assets/tempe-goreng-kuning.png",
+    "image": "assets/tempe-goreng-kuning.png",
     "ingredients": [
       { "nama": "Tempe", "tampilan": "1 papan tempe, iris" },
       { "nama": "Daun Salam", "tampilan": "1 lembar daun salam" },
@@ -2829,7 +2829,7 @@
   {
     "id": "orak-arik-telur-sayuran",
     "name": "Orak-Arik Telur Sayuran",
-    "image": "../assets/orak-arik-telur.png",
+    "image": "assets/orak-arik-telur.png",
     "ingredients": [
       { "nama": "Wortel", "tampilan": "250 g buah wortel, belah 2, iris serong" },
       { "nama": "Buncis", "tampilan": "100 g buncis, iris serong" },
@@ -2875,7 +2875,7 @@
   {
     "id": "pancake-sayuran-mini-keju",
     "name": "Pancake Sayuran Mini",
-    "image": "../assets/pancake-sayuran.png",
+    "image": "assets/pancake-sayuran.png",
     "ingredients": [
       { "nama": "Bawang Putih", "tampilan": "2 siung bawang putih, parut" },
       { "nama": "Bayam", "tampilan": "100 g bayam, iris tipis" },
