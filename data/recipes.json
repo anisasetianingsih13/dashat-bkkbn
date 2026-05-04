@@ -119,7 +119,7 @@
   {
     "id": "telur-balado",
     "name": "Telur Balado",
-    "image": "assets/telor.png",
+    "image": "assets/telur.png",
     "ingredients": [
       { "nama": "Telur", "tampilan": "4 butir telur ayam, rebus, kupas, goreng hingga berkulit" },
       { "nama": "Cabai Merah", "tampilan": "75 g cabai merah keriting" },
