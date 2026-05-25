@@ -70,17 +70,21 @@ async function olahBahan() {
         score
       };
     })
-    // 🔔 Tetap memunculkan resep selama ada minimal 1 bahan yang cocok
-    .filter(r => r.cocok.length > 0)
-    .sort((a, b) => b.score - a.score);
+    // 🔔 Hanya tampilkan resep dengan kecocokan 50% ke atas
+.filter(r => r.score >= 50)
+.sort((a, b) => b.score - a.score);
 
     console.log("HASIL FILTER:", hasil);
 
-    // 🔔 kalau tidak ada yang cocok
-    if (hasil.length === 0) {
-      alert("Belum ada resep yang cocok 😢");
-      return;
-    }
+    // 🔔 jika tidak ada resep yang mencapai 50%
+if (hasil.length === 0) {
+  alert(
+    "Maaf, kami belum bisa menyediakan menu masakan 😢\n\n" +
+    "Karena bahan yang kamu miliki belum mencapai tingkat kecocokan minimal 50%.\n" +
+    "Silakan tambahkan bahan lain dan coba kembali."
+  );
+  return;
+}
 
     // simpan ke localStorage
     localStorage.setItem('hasilFilterResep', JSON.stringify(hasil));
