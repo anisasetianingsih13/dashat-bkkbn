@@ -71,10 +71,19 @@ async function olahBahan() {
       };
     })
     // 🔔 Hanya tampilkan resep dengan kecocokan 50% ke atas
-.filter(r => r.score >= 50)
+.filter(r => r.cocok.length > 0)
 .sort((a, b) => b.score - a.score);
 
     console.log("HASIL FILTER:", hasil);
+    
+    // cek apakah ada resep 100%
+const adaSeratus = hasil.some(r => r.score === 100);
+
+// simpan status ke localStorage
+localStorage.setItem(
+  'adaResep100',
+  JSON.stringify(adaSeratus)
+);
 
     // jika tidak ada resep ≥50%
 if (hasil.length === 0) {
