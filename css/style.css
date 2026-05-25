@@ -749,21 +749,23 @@ html {
 
 .card-info-kecocokan {
 
-  grid-column: 1/-1;
+  width: 100%;
 
   background: #fff8e8;
 
   border-left: 6px solid #f0ad4e;
 
-  padding: 20px;
+  padding: 18px;
 
   border-radius: 18px;
 
-  margin-bottom: 25px;
+  margin: 10px 0 20px 0;
 
   text-align: center;
 
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+
+  box-sizing: border-box;
 }
 
 .card-info-kecocokan h3 {
