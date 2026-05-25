@@ -6,19 +6,32 @@ function loadResults() {
 
     // Validasi jika data tidak ditemukan
     if (!storedData || storedData === '[]') {
-        if (container) {
-            container.innerHTML = `
-                <div style="grid-column: 1/-1; text-align: center; padding: 50px;">
-                    <p style="color: #1a6da3; font-weight: bold; font-size: 1.2rem;">
-                        Oops! Tidak ada resep yang cocok.<br>
-                        <span style="font-weight: normal; font-size: 0.9rem;">
-                            Coba pilih bahan lain ya 😊
-                        </span>
-                    </p>
-                </div>`;
-        }
-        return;
+    if (container) {
+        container.innerHTML = `
+            <div class="card-kosong">
+
+                <div class="icon-kosong">🍲</div>
+
+                <h2>Menu Belum Tersedia</h2>
+
+                <p>
+                    Maaf, kami belum bisa menyediakan menu masakan.
+                </p>
+
+                <p class="subtext">
+                    Karena bahan yang kamu miliki belum mencapai
+                    kecocokan minimal <strong>50%</strong>.
+                </p>
+
+                <p class="subtext">
+                    Coba tambahkan bahan lain ya 😊
+                </p>
+
+            </div>
+        `;
     }
+    return;
+}
 
     const data = JSON.parse(storedData);
     tampilkan(data);
