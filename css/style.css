@@ -749,31 +749,36 @@ html {
 
 .card-info-kecocokan {
 
-  width: 100%;
+  grid-column: 1 / -1;
 
   background: #fff8e8;
 
+  max-width: 850px;
+  width: 100%;
+
+  margin: 0 auto 30px auto;
+
+  padding: 22px 25px;
+
+  border-radius: 22px;
+
   border-left: 6px solid #f0ad4e;
-
-  padding: 18px;
-
-  border-radius: 18px;
-
-  margin: 10px 0 20px 0;
 
   text-align: center;
 
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.10);
 
   box-sizing: border-box;
 }
 
 .card-info-kecocokan h3 {
   color: #c27c00;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  font-size: 20px;
 }
 
 .card-info-kecocokan p {
   color: #555;
-  line-height: 1.6;
+  line-height: 1.7;
+  margin: 6px 0;
 }
