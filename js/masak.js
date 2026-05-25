@@ -76,13 +76,15 @@ async function olahBahan() {
 
     console.log("HASIL FILTER:", hasil);
 
-    // 🔔 jika tidak ada resep yang mencapai 50%
+    // jika tidak ada resep ≥50%
 if (hasil.length === 0) {
-  alert(
-    "Maaf, kami belum bisa menyediakan menu masakan 😢\n\n" +
-    "Karena bahan yang kamu miliki belum mencapai tingkat kecocokan minimal 50%.\n" +
-    "Silakan tambahkan bahan lain dan coba kembali."
+
+  localStorage.setItem(
+    'hasilFilterResep',
+    JSON.stringify([])
   );
+
+  window.location.href = 'hasilresep.html';
   return;
 }
 
